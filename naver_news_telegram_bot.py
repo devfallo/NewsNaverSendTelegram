@@ -1,17 +1,20 @@
 import requests
 from bs4 import BeautifulSoup
 import telegram
-import schedule
-import time
 from datetime import datetime
-import os
 import asyncio
-from httpx import AsyncClient
+# python-telegram-bot v20+에 맞는 import 구문으로 수정
+from telegram import Bot
+from telegram.constants import ParseMode
+from telegram.error import TelegramError
+import os
 
 # --- 텔레그램 봇 설정 ---
 # ※ 보안을 위해 봇 토큰과 채팅 ID는 환경 변수로 관리하는 것을 강력히 권장합니다.
 # 로컬에서 테스트할 경우, 아래 문자열에 직접 값을 입력해도 됩니다.
 # 예: TELEGRAM_BOT_TOKEN = "12345:ABCDE..."
+TELEGRAM_BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', "")
+TELEGRAM_CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID', "")
 
 def escape_markdown_v2(text):
     """Telegram MarkdownV2 파싱을 위한 특수 문자 이스케이프 처리"""
@@ -110,7 +113,14 @@ async def scrape_and_send_news():
             print("경고: 메시지가 너무 길어 일부를 잘랐습니다.")
         print("최종 메시지:\n", final_message)
         
-        await send_message(final_message)
+        # await send_message(final_message)
+        bot = Bot(token=TELEGRAM_BOT_TOKEN)
+        await bot.send_message(
+            chat_id=TELEGRAM_CHAT_ID,
+            text=final_message,
+            parse_mode=ParseMode.MARKDOWN_V2,
+            disable_web_page_preview=True
+        )
         print("메시지를 성공적으로 전송했습니다.")
 
     except requests.exceptions.RequestException as e:
