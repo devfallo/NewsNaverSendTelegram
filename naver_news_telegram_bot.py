@@ -69,7 +69,7 @@ async def scrape_and_send_news():
         current_time_str = escape_markdown_v2(datetime.now().strftime('%Y년 %m월 %d일 %H시 기준'))
         message_parts = [f"*{current_time_str} 언론사별 뉴스 랭킹*"]
         
-        for box in press_boxes[:5]:
+        for box in press_boxes:
             # print(f"처리 중: {box}")
             # --- 수정된 부분: 알려주신 구조에 따라 언론사 이름 추출 ---
             press_head = box.find('a', class_='rankingnews_box_head')

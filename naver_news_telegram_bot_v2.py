@@ -60,6 +60,7 @@ async def scrape_and_send_news():
             await page.goto(url)
 
             await click_until_disappear(page, "button_rankingnews_more")
+            print("버튼 클릭 작업이 완료되었습니다. 다음 작업을 수행합니다.")
 
             content = await page.content()
             soup = BeautifulSoup(content, 'html.parser')
@@ -67,6 +68,12 @@ async def scrape_and_send_news():
 
             press_boxes = all_components.find_all('div', class_='rankingnews_box')
             print(f"총 {len(press_boxes)}개의 언론사 랭킹 박스를 찾았습니다.")
+            
+            message_parts = []
+            # for box in press_boxes:
+            #     press_name_tag = box.find('strong', class_='rankingnews_name')
+            #     print("press_name_tag : ",press_name_tag)
+
             if not press_boxes:
                 print("오류: 개별 언론사 랭킹 박스(class='rankingnews_box')를 찾을 수 없습니다.")
                 return
@@ -74,12 +81,14 @@ async def scrape_and_send_news():
             current_time_str = escape_markdown_v2(datetime.now().strftime('%Y년 %m월 %d일 %H시 기준'))
             message_parts = [f"*{current_time_str} 언론사별 뉴스 랭킹*"]
 
-            for box in press_boxes[:5]:
+            for box in press_boxes:
                 press_head = box.find('a', class_='rankingnews_box_head')
+                print("press_head : ", press_head)
                 if not press_head:
                     continue
 
                 press_name_tag = press_head.find('strong', class_='rankingnews_name')
+                print("press_name_tag : ", press_name_tag)
                 if not press_name_tag:
                     continue
 
@@ -102,6 +111,8 @@ async def scrape_and_send_news():
                             link = "https://news.naver.com" + link
 
                         message_parts.append(f"{i}\\. [{title}]({link})")
+            
+            print("모든 언론사 뉴스 랭킹 처리가 완료되었습니다. 다음 작업을 수행합니다.")
 
             final_message = "\n".join(message_parts)
 
@@ -131,7 +142,7 @@ async def scrape_and_send_news():
         print(f"스크립트 실행 중 알 수 없는 오류가 발생했습니다: {e}")
     finally:
         try:
-            browser.close()
+            await browser.close()
         except NameError:
             print("'browser' 객체가 정의되지 않았습니다. 브라우저를 닫을 수 없습니다.")
 
