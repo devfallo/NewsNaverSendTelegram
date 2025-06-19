@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Cards</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #f4f4f9;
+            overflow-x: hidden;
+        }
+        .viewpager {
+            display: flex;
+            overflow-x: auto;
+            scroll-snap-type: x mandatory;
+            -webkit-overflow-scrolling: touch;
+            width: 100%;
+            max-width: 400px;
+        }
+        .card {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin: 16px;
+            padding: 16px;
+            width: 90%;
+            flex: 0 0 100%;
+            scroll-snap-align: start;
+            box-sizing: border-box;
+        }
+        .card h3 {
+            margin: 0 0 8px;
+        }
+        .card p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="viewpager" id="news-container"></div>
+
+    <script>
+        let newsData = [];
+
+        function renderCards() {
+            const container = document.getElementById('news-container');
+            container.innerHTML = '';
+
+            newsData.forEach(news => {
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <h3>${news.press_name}</h3>
+                    ${news.articles.map(article => `<p><a href="${article.link}" target="_blank">${article.title}</a></p>`).join('')}
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        fetch('news_data.json')
+            .then(response => response.json())
+            .then(data => {
+                newsData = data;
+                renderCards();
+            })
+            .catch(error => console.error('Error loading news data:', error));
+    </script>
+</body>
+</html>

@@ -9,6 +9,7 @@ from telegram.constants import ParseMode
 from telegram.error import TelegramError
 import os
 from playwright.async_api import async_playwright
+import json
 
 # --- 텔레그램 봇 설정 ---
 # ※ 보안을 위해 봇 토큰과 채팅 ID는 환경 변수로 관리하는 것을 강력히 권장합니다.
@@ -70,9 +71,7 @@ async def scrape_and_send_news():
             print(f"총 {len(press_boxes)}개의 언론사 랭킹 박스를 찾았습니다.")
             
             message_parts = []
-            # for box in press_boxes:
-            #     press_name_tag = box.find('strong', class_='rankingnews_name')
-            #     print("press_name_tag : ",press_name_tag)
+            news_data = []  # Ensure news_data is initialized before use
 
             if not press_boxes:
                 print("오류: 개별 언론사 랭킹 박스(class='rankingnews_box')를 찾을 수 없습니다.")
@@ -83,57 +82,64 @@ async def scrape_and_send_news():
 
             for box in press_boxes:
                 press_head = box.find('a', class_='rankingnews_box_head')
-                print("press_head : ", press_head)
+                # print("press_head : ", press_head)
                 if not press_head:
                     continue
 
                 press_name_tag = press_head.find('strong', class_='rankingnews_name')
-                print("press_name_tag : ", press_name_tag)
+                # print("press_name_tag : ", press_name_tag)
                 if not press_name_tag:
                     continue
 
                 press_name = escape_markdown_v2(press_name_tag.text.strip())
-                message_parts.append(f"\n\n📰 *{press_name}*")
+                message_parts.append(f"\n📰 *{press_name}*")
 
                 news_list = box.find('ul', class_='rankingnews_list')
                 if not news_list:
                     continue
 
-                articles = news_list.find_all('li', limit=5)
-                for i, article in enumerate(articles, 1):
+                articles = []
+                for article in news_list.find_all('li'):
                     title_tag = article.find('a', class_='list_title')
-
                     if title_tag and title_tag.has_attr('href'):
-                        title = escape_markdown_v2(title_tag.text.strip())
+                        title = title_tag.text.strip()
                         link = title_tag['href']
-
                         if not link.startswith('http'):
                             link = "https://news.naver.com" + link
+                        articles.append({"title": title, "link": link})
 
-                        message_parts.append(f"{i}\\. [{title}]({link})")
+                # 뉴스 데이터를 news_data 리스트에 추가
+                news_data.append({"press_name": press_name, "articles": articles})
             
             print("모든 언론사 뉴스 랭킹 처리가 완료되었습니다. 다음 작업을 수행합니다.")
+
+            # 뉴스 데이터를 JSON 파일로 저장
+            if news_data:  # Ensure there is data to save
+                with open('news_data.json', 'w', encoding='utf-8') as json_file:
+                    json.dump(news_data, json_file, ensure_ascii=False, indent=4)
+                print("뉴스 데이터를 news_data.json 파일로 저장했습니다.")
+            else:
+                print("저장할 뉴스 데이터가 없습니다.")
 
             final_message = "\n".join(message_parts)
 
             if len(final_message.strip()) <= len(message_parts[0]):
                 print("전송할 뉴스 내용이 없습니다. 파싱 결과를 확인해주세요.")
                 return
-
+            print("final_message 길이:", len(final_message))
             if len(final_message) > 4096:
                 final_message = final_message[:4090] + "..."
                 print("경고: 메시지가 너무 길어 일부를 잘랐습니다.")
-            print("최종 메시지:\n", final_message)
+            # print("최종 메시지:\n", final_message)
 
-            bot = Bot(token=TELEGRAM_BOT_TOKEN)
-            await bot.send_message(
-                chat_id=TELEGRAM_CHAT_ID,
-                text=final_message,
-                parse_mode=ParseMode.MARKDOWN_V2,
-                disable_web_page_preview=True
-            )
-            print("메시지를 성공적으로 전송했습니다.")
-
+            # bot = Bot(token=TELEGRAM_BOT_TOKEN)
+            # await bot.send_message(
+            #     chat_id=TELEGRAM_CHAT_ID,
+            #     text=final_message,
+            #     parse_mode=ParseMode.MARKDOWN_V2,
+            #     disable_web_page_preview=True
+            # )
+            # print("메시지를 성공적으로 전송했습니다.")
     except requests.exceptions.RequestException as e:
         print(f"네트워크 오류가 발생했습니다: {e}")
     except telegram.error.TelegramError as e:
