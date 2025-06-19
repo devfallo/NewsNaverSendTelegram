@@ -51,12 +51,17 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python naver_news_telegram_bot_v2.py
-          
+
       # 5. 스크립트 실행 후 생성된 news_data.json 파일을 커밋하고 푸시합니다.    
       - name: Commit and push news_data.json
+        env:
+            GH_TOKEN: ${{ secrets.GH_TOKEN }}
+            GH_USERNAME: ${{ secrets.GH_USERNAME }}
+            GH_REPOSITORY: ${{ secrets.GH_REPOSITORY }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${GH_USERNAME}/${GH_REPOSITORY}.git
           git add news_data.json
           git commit -m "Add news_data.json"
           git push
