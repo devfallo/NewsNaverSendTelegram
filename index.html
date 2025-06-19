@@ -63,7 +63,8 @@
             });
         }
 
-        fetch('news_data.json')
+        let url ="https://devfallo.github.io/NewsNaverSendTelegram/news_data.json";
+        fetch(url)
             .then(response => response.json())
             .then(data => {
                 newsData = data;
