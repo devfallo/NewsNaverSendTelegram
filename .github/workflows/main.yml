@@ -36,6 +36,8 @@ jobs:
       # 4. Python 스크립트를 실행합니다.
       - name: Run Python script
         env:
+          # 👇 여기에 시간대 환경 변수를 추가합니다.
+          TZ: 'Asia/Seoul' 
           # GitHub Secrets에 저장한 값을 환경 변수로 스크립트에 전달합니다.
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
