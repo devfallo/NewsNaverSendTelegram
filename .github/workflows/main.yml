@@ -32,6 +32,15 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          
+      # Playwright 설치
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Install Playwright browsers
+        run: |
+          playwright install
 
       # 4. Python 스크립트를 실행합니다.
       - name: Run Python script
