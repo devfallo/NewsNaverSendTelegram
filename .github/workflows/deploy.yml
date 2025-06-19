@@ -1,3 +1,6 @@
+on:
+  workflow_dispatch:
+
 steps:
   - name: Setup ngrok
     run: |
