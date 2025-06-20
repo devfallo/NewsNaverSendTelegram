@@ -56,12 +56,10 @@ jobs:
       - name: Commit and push news_data.json
         env:
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
-            GH_USERNAME: ${{ secrets.GH_USERNAME }}
-            GH_REPOSITORY: ${{ secrets.GH_REPOSITORY }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${GH_USERNAME}/${GH_REPOSITORY}.git
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/devfallo/NewsNaverSendTelegram.git
           git add news_data.json
           git commit -m "Add news_data.json"
           git push
