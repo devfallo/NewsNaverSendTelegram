@@ -1,76 +1,211 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News Cards</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>언론사별 랭킹 뉴스</title>
     <style>
+        /* 기본 스타일 및 폰트 설정 */
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
+
+        :root {
+            --background-color: #f0f2f5;
+            --text-color: #1c1e21;
+        }
+
+        [data-theme="dark"] {
+            --background-color: #1c1e21;
+            --text-color: #f0f2f5;
+        }
+
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Noto Sans KR', Arial, sans-serif;
             margin: 0;
             padding: 0;
             display: flex;
             flex-direction: column;
             align-items: center;
-            background-color: #f4f4f9;
+            background-color: var(--background-color);
+            color: var(--text-color);
             overflow-x: hidden;
+            transition: background-color 0.3s, color 0.3s;
         }
+
+        /* 페이지 제목 */
+        .page-title {
+            width: 100%;
+            text-align: center;
+            padding: 20px 0;
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--text-color);
+        }
+
+        /* 스와이프 가능한 카드 컨테이너 */
         .viewpager {
             display: flex;
             overflow-x: auto;
             scroll-snap-type: x mandatory;
-            -webkit-overflow-scrolling: touch;
+            -webkit-overflow-scrolling: touch; /* iOS 부드러운 스크롤 */
             width: 100%;
-            max-width: 400px;
+            padding-bottom: 20px;
+            padding-left: 10%; /* 왼쪽 여백 추가 */
+            padding-right: 10%; /* 오른쪽 여백 추가 */
+            justify-content: center; /* 카드 정렬 */
         }
+        /* 스크롤바 숨기기 */
+        .viewpager::-webkit-scrollbar {
+            display: none;
+        }
+
+        /* 뉴스 카드 디자인 */
         .card {
             background: white;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            margin: 16px;
-            padding: 16px;
-            width: 90%;
-            flex: 0 0 100%;
-            scroll-snap-align: start;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            margin: 0 8px; /* 카드 간격 조정 */
+            width: calc(80% - 16px); /* 카드 너비를 줄여 양 옆에 보이도록 설정 */
+            flex: 0 0 calc(80% - 16px); /* 카드 너비 고정 */
+            scroll-snap-align: center; /* 카드가 중앙에 오도록 스냅 */
             box-sizing: border-box;
+            padding: 20px;
         }
+
+        /* 언론사 이름 */
         .card h3 {
-            margin: 0 0 8px;
+            margin: 0 0 16px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid #007bff;
+            color: #007bff;
+            font-size: 20px;
         }
-        .card p {
+        
+        /* 뉴스 목록 스타일 */
+        .news-list {
+            list-style: none;
+            padding: 0;
             margin: 0;
+        }
+        
+        .news-list li {
+            margin-bottom: 12px;
+        }
+        
+        /* 뉴스 헤드라인 링크 */
+        .news-list a {
+            text-decoration: none;
+            color: #333;
+            font-size: 16px;
+            line-height: 1.5;
+            display: block;
+            transition: color 0.2s ease;
+        }
+
+        .news-list a:hover {
+            color: #0056b3;
+        }
+        
+        .theme-toggle {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            background: var(--text-color);
+            color: var(--background-color);
+            border: none;
+            border-radius: 5px;
+            padding: 10px 15px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        .theme-toggle:hover {
+            opacity: 0.8;
         }
     </style>
 </head>
 <body>
+    <h1 class="page-title">언론사별 랭킹 뉴스</h1>
+    
     <div class="viewpager" id="news-container"></div>
 
     <script>
-        let newsData = [];
+        document.addEventListener('DOMContentLoaded', () => {
+            const newsContainer = document.getElementById('news-container');
 
-        function renderCards() {
-            const container = document.getElementById('news-container');
-            container.innerHTML = '';
+            let newsData = [];
+            const url = "news_data.json";//"https://devfallo.github.io/NewsNaverSendTelegram/news_data.json";
 
-            newsData.forEach(news => {
-                const card = document.createElement('div');
-                card.className = 'card';
-                card.innerHTML = `
-                    <h3>${news.press_name}</h3>
-                    ${news.articles.map(article => `<p><a href="${article.link}" target="_blank">${article.title}</a></p>`).join('')}
-                `;
-                container.appendChild(card);
+            // 뉴스 데이터를 불러와 카드를 렌더링하는 함수
+            function renderCards() {
+                newsContainer.innerHTML = ''; // 기존 카드 초기화
+
+                newsData.forEach(news => {
+                    const card = document.createElement('div');
+                    card.className = 'card';
+                    
+                    const articleList = news.articles.map(article => 
+                        `<li style="display: flex; align-items: center; margin-bottom: 12px;">
+                            <img src="${article.img_src}" alt="뉴스 이미지" style="width: 70px; height: 70px; margin-right: 12px; border-radius: 8px;">
+                            <a href="${article.link}" data-link="${article.link}" style="font-family: 'Arial', sans-serif; font-size: 14px; line-height: 1.6; color: #333; text-decoration: none;">
+                                <span style="font-weight: bold;">${article.title}</span>
+                            </a>
+                        </li>`
+                    ).join('');
+
+                    card.innerHTML = `
+                        <h3>${news.press_name}</h3>
+                        <ul class="news-list">${articleList}</ul>
+                    `;
+                    newsContainer.appendChild(card);
+                });
+            }
+
+            // 뉴스 데이터 Fetch
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    newsData = data;
+                    renderCards();
+                })
+                .catch(error => {
+                    console.error('Error loading news data:', error);
+                    newsContainer.innerHTML = '<p style="text-align:center; color:red;">뉴스 데이터를 불러오는 데 실패했습니다.</p>';
+                });
+
+            // 이벤트 위임: 컨테이너에 한 번만 이벤트 리스너를 추가하여 효율성 증대
+            newsContainer.addEventListener('click', (event) => {
+                // 클릭된 요소가 'A' 태그인지 확인
+                if (event.target.tagName === 'A' && event.target.dataset.link) {
+                    event.preventDefault(); // 기본 링크 이동 방지
+                    const linkUrl = event.target.dataset.link;
+                    window.open(linkUrl, '_blank'); // 새 탭에서 링크 열기
+                }
             });
-        }
 
-        let url ="https://devfallo.github.io/NewsNaverSendTelegram/news_data.json";
-        fetch(url)
-            .then(response => response.json())
-            .then(data => {
-                newsData = data;
-                renderCards();
-            })
-            .catch(error => console.error('Error loading news data:', error));
+            // 테마 토글 버튼 추가
+            const themeToggleBtn = document.createElement('button');
+            themeToggleBtn.className = 'theme-toggle';
+            themeToggleBtn.textContent = '다크 모드';
+
+            const currentTheme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-theme', currentTheme);
+            themeToggleBtn.textContent = currentTheme === 'dark' ? '라이트 모드' : '다크 모드';
+
+            themeToggleBtn.addEventListener('click', () => {
+                const newTheme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+                document.documentElement.setAttribute('data-theme', newTheme);
+                localStorage.setItem('theme', newTheme);
+                themeToggleBtn.textContent = newTheme === 'dark' ? '라이트 모드' : '다크 모드';
+            });
+
+            document.body.appendChild(themeToggleBtn);
+        });
     </script>
 </body>
 </html>

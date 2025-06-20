@@ -50,7 +50,8 @@ async def scrape_and_send_news():
     """
     Naver 뉴스 언론사별 랭킹을 스크랩하여 제목과 링크를 텔레그램으로 전송합니다.
     """
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 뉴스 스크래핑 및 전송 작업을 시작합니다.")
+    regDt = datetime.now().strftime('%Y-%m-%d %H:%M:%S')  # Add current date and time
+    print(f"[{regDt}] 뉴스 스크래핑 및 전송 작업을 시작합니다.")
 
     url = "https://news.naver.com/main/ranking/popularDay.naver"
 
@@ -104,19 +105,53 @@ async def scrape_and_send_news():
                     if title_tag and title_tag.has_attr('href'):
                         title = title_tag.text.strip()
                         link = title_tag['href']
+                        img_tag = article.find('img')  # img 태그 추출
+                        img_src = img_tag['src'] if img_tag and img_tag.has_attr('src') else None  # img src 추출
+                        time_tag = article.find('span', class_='list_time')  # span 태그에서 class가 list_time인 요소 추출
+                        time = time_tag.text.strip() if time_tag else None  # time 값 추출
                         if not link.startswith('http'):
                             link = "https://news.naver.com" + link
-                        articles.append({"title": title, "link": link})
+                        articles.append({"title": title, "link": link, "img_src": img_src, "time": time})
 
                 # 뉴스 데이터를 news_data 리스트에 추가
-                news_data.append({"press_name": press_name, "articles": articles})
+                
+                new_entry = {"press_name": press_name, "articles": articles, "regDt": regDt}  # Add regDt to the same level as press_name
+                news_data.append(new_entry)
             
             print("모든 언론사 뉴스 랭킹 처리가 완료되었습니다. 다음 작업을 수행합니다.")
 
             # 뉴스 데이터를 JSON 파일로 저장
             if news_data:  # Ensure there is data to save
+                try:
+                    with open('news_data.json', 'r', encoding='utf-8') as json_file:
+                        existing_data = json.load(json_file)
+                except (FileNotFoundError, json.JSONDecodeError):
+                    existing_data = []
+
+                today_str = datetime.now().strftime('%Y-%m-%d')
+                for item in existing_data:
+                    regDt = item.get('regDt', '')
+                    if not regDt.startswith(today_str):
+                        item['articles'] = []
+
+                for new_entry in news_data:
+                    press_name = new_entry["press_name"]
+                    articles = new_entry["articles"]
+
+                    # Find existing press_name entry
+                    existing_entry = next((item for item in existing_data if item["press_name"] == press_name), None)
+
+                    if existing_entry:
+                        existing_entry['regDt'] = regDt
+                        for article in articles:
+                            if not any(existing_article["title"] == article["title"] or existing_article["link"] == article["link"] for existing_article in existing_entry["articles"]):
+                                existing_entry["articles"].insert(0, article)  # Add new articles at the beginning
+                    else:
+                        new_entry['regDt'] = regDt
+                        existing_data.append(new_entry)
+
                 with open('news_data.json', 'w', encoding='utf-8') as json_file:
-                    json.dump(news_data, json_file, ensure_ascii=False, indent=4)
+                    json.dump(existing_data, json_file, ensure_ascii=False, indent=4)
                 print("뉴스 데이터를 news_data.json 파일로 저장했습니다.")
             else:
                 print("저장할 뉴스 데이터가 없습니다.")
