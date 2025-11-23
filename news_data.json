@@ -3,34 +3,34 @@
         "press_name": "비즈워치",
         "articles": [
             {
-                "title": "\"지금이 적기?\"…입맛 따른 금 투자전략 고르기",
-                "link": "https://n.news.naver.com/article/648/0000042038?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/648/2025/11/23/42038.jpg?type=nf70_70",
-                "time": "6시간전"
-            },
-            {
-                "title": "'특징주'로 주가 띄워 112억 챙긴 전직기자 일당 구속…13명 추가 수사",
-                "link": "https://n.news.naver.com/article/648/0000042041?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/648/2025/11/23/42041.jpg?type=nf70_70",
-                "time": "5시간전"
-            },
-            {
-                "title": "서울 자가 사는 김부장 되려면 '월급 14년치 모아야'",
-                "link": "https://n.news.naver.com/article/648/0000042034?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/648/2025/11/23/42034.jpg?type=nf70_70",
-                "time": "10시간전"
-            },
-            {
                 "title": "결국 무너진 '신세계 유니버스'…예정된 수순이었다",
                 "link": "https://n.news.naver.com/article/648/0000042031?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/648/2025/11/22/42031.jpg?type=nf70_70",
                 "time": "1일전"
             },
             {
+                "title": "\"지금이 적기?\"…입맛 따른 금 투자전략 고르기",
+                "link": "https://n.news.naver.com/article/648/0000042038?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/648/2025/11/23/42038.jpg?type=nf70_70",
+                "time": "7시간전"
+            },
+            {
+                "title": "서울 자가 사는 김부장 되려면 '월급 14년치 모아야'",
+                "link": "https://n.news.naver.com/article/648/0000042034?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/648/2025/11/23/42034.jpg?type=nf70_70",
+                "time": "11시간전"
+            },
+            {
                 "title": "\"선박이 뿜는 엔진 열이 전기로?\"…폐열 회수 실험 나선 HMM",
                 "link": "https://n.news.naver.com/article/648/0000042043?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/648/2025/11/23/42043.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
+            },
+            {
+                "title": "'특징주'로 주가 띄워 112억 챙긴 전직기자 일당 구속…13명 추가 수사",
+                "link": "https://n.news.naver.com/article/648/0000042041?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/648/2025/11/23/42041.jpg?type=nf70_70",
+                "time": "6시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -39,22 +39,16 @@
         "press_name": "연합뉴스",
         "articles": [
             {
-                "title": "[속보] 조국, 사면복권 3개월여 만에 혁신당 대표 당선",
-                "link": "https://n.news.naver.com/article/001/0015757758?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/001/2025/11/23/15757758.jpg?type=nf70_70",
+                "title": "조국 \"토지공개념 도입하고 보유세 올려야…이제 개헌 시간\"",
+                "link": "https://n.news.naver.com/article/001/0015757837?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/001/2025/11/23/15757837.jpg?type=nf70_70",
                 "time": "1시간전"
             },
             {
-                "title": "록밴드 부활 출신 김재희, 2천억원대 투자범행 가담 혐의로 송치(종합)",
-                "link": "https://n.news.naver.com/article/001/0015757716?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/001/2025/11/23/15757716.jpg?type=nf70_70",
-                "time": "2시간전"
-            },
-            {
-                "title": "'계엄령 놀이' 갑질 공무원 논란에 사과한 양양군…\"깊이 송구\"",
-                "link": "https://n.news.naver.com/article/001/0015757405?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/001/2025/11/23/15757405.jpg?type=nf70_70",
-                "time": "5시간전"
+                "title": "'퇴사배상' 논란 치과 근로감독…\"3시간 면벽수행, 60줄 반성문\"(종합)",
+                "link": "https://n.news.naver.com/article/001/0015757785?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/001/2025/11/23/15757785.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "올해만 검사 161명 사표 '엑소더스'…10년새 최고치",
@@ -63,10 +57,16 @@
                 "time": "4시간전"
             },
             {
+                "title": "강훈식, 양양 '괴롭힘 공무원' 논란에 \"감사·수사로 엄정 조치\"",
+                "link": "https://n.news.naver.com/article/001/0015757809?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/001/2025/11/23/15757809.jpg?type=nf70_70",
+                "time": "1시간전"
+            },
+            {
                 "title": "'바가지 논란' 끝 3억 소송전까지…광장시장에선 무슨 일이",
                 "link": "https://n.news.naver.com/article/001/0015757230?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/001/2025/11/23/15757230.jpg?type=nf70_70",
-                "time": "9시간전"
+                "time": "10시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -78,30 +78,30 @@
                 "title": "[속보] 조국, 조국혁신당 대표 당선",
                 "link": "https://n.news.naver.com/article/082/0001355014?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/082/2025/11/23/1355014.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "2시간전"
             },
             {
-                "title": "'해운대서 터졌다' 1199회 로또 1등 17명…당첨번호와 판매점은?",
-                "link": "https://n.news.naver.com/article/082/0001354958?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/082/2025/11/22/1354958.jpg?type=nf70_70",
-                "time": "20시간전"
-            },
-            {
-                "title": "록밴드 부활 출신 김재희, 2000억 원대 투자범행 가담 혐의로 송치",
-                "link": "https://n.news.naver.com/article/082/0001355013?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/082/2025/11/23/1355013.jpg?type=nf70_70",
-                "time": "1시간전"
-            },
-            {
-                "title": "“온 동네가 쓰레기투성이”… 강서구 천성항, 몰려드는 캠핑족들로 ‘몸살’",
-                "link": "https://n.news.naver.com/article/082/0001354998?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/082/2025/11/23/1354998.jpg?type=nf70_70",
+                "title": "‘YS 10주기’ 추모식인데…코빼기도 안 비친 민주당 지도부",
+                "link": "https://n.news.naver.com/article/082/0001355022?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/082/2025/11/23/1355022.jpg?type=nf70_70",
                 "time": "1시간전"
             },
             {
                 "title": "[단독]역대 최고치 고등어 터졌다...부산공동어시장 위판목표 조기 달성",
                 "link": "https://n.news.naver.com/article/082/0001354996?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/082/2025/11/23/1354996.jpg?type=nf70_70",
+                "time": "2시간전"
+            },
+            {
+                "title": "록밴드 부활 출신 김재희, 2000억 원대 투자범행 가담 혐의로 송치",
+                "link": "https://n.news.naver.com/article/082/0001355013?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/082/2025/11/23/1355013.jpg?type=nf70_70",
+                "time": "2시간전"
+            },
+            {
+                "title": "[속보] 강훈식, 양양 '괴롭힘 공무원' 논란에 \"감사·수사로 엄정 조치\"",
+                "link": "https://n.news.naver.com/article/082/0001355023?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/082/2025/11/23/1355023.jpg?type=nf70_70",
                 "time": "1시간전"
             }
         ],
@@ -111,34 +111,34 @@
         "press_name": "경향신문",
         "articles": [
             {
-                "title": "YS 추도식에 ‘민주당 0명’ 논란…전현희 “송구하다, 당에서 의도적 불참 아냐”",
-                "link": "https://n.news.naver.com/article/032/0003410502?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/032/2025/11/23/3410502.jpg?type=nf70_70",
+                "title": "[속보]‘찬성률 98.6%’ 조국, 혁신당 대표로··· 11개월 만에 공식 복귀",
+                "link": "https://n.news.naver.com/article/032/0003410514?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/032/2025/11/23/3410514.jpg?type=nf70_70",
                 "time": "2시간전"
             },
             {
                 "title": "계양산서 “살려달라”던 신고자, 당일 귀가···구조인력 나흘간 헛심썼다",
                 "link": "https://n.news.naver.com/article/032/0003410470?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/032/2025/11/23/3410470.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "6시간전"
             },
             {
-                "title": "[속보]‘찬성률 98%’ 조국, 혁신당 대표로··· 11개월 만에 공식 복귀",
-                "link": "https://n.news.naver.com/article/032/0003410514?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/032/2025/11/23/3410514.jpg?type=nf70_70",
+                "title": "강훈식, 양양 ‘계엄놀이’ 갑질 공무원 논란에 “범죄행위 감사·수사 신속 착수”",
+                "link": "https://n.news.naver.com/article/032/0003410522?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/032/2025/11/23/3410522.jpg?type=nf70_70",
                 "time": "1시간전"
-            },
-            {
-                "title": "김용현 측 변호사들 ‘막말’로 얼마 벌었나···유튜브 ‘슈퍼챗’ 통계 살펴보니",
-                "link": "https://n.news.naver.com/article/032/0003410495?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/032/2025/11/23/3410495.jpg?type=nf70_70",
-                "time": "2시간전"
             },
             {
                 "title": "손흥민, 천국에서 지옥으로···멀티골 넣고도 승부차기 실축으로 MLS컵 탈락",
                 "link": "https://n.news.naver.com/article/032/0003410508?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/032/2025/11/23/3410508.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "2시간전"
+            },
+            {
+                "title": "김용현 측 변호사들 ‘막말’로 얼마 벌었나···유튜브 ‘슈퍼챗’ 통계 살펴보니",
+                "link": "https://n.news.naver.com/article/032/0003410495?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/032/2025/11/23/3410495.jpg?type=nf70_70",
+                "time": "3시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -147,34 +147,34 @@
         "press_name": "한국경제",
         "articles": [
             {
+                "title": "\"아기가 장식품인가\"…이시영, 딸 사진 올렸다가 '뭇매'→삭제 엔딩",
+                "link": "https://n.news.naver.com/article/015/0005214810?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/015/2025/11/23/5214810.jpg?type=nf70_70",
+                "time": "3시간전"
+            },
+            {
                 "title": "7년 전 320억에 강남 땅 산 현우진…'잭팟' 터졌다 [집코노미-핫!부동산]",
                 "link": "https://n.news.naver.com/article/015/0005214798?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/015/2025/11/23/5214798.jpg?type=nf70_70",
-                "time": "4시간전"
-            },
-            {
-                "title": "1000만원 넣으면 190만원 받는다?…발빠른 개미들 향한 곳",
-                "link": "https://n.news.naver.com/article/015/0005214815?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/015/2025/11/23/5214815.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "5시간전"
             },
             {
                 "title": "\"중국인들 진짜 왜 이러나\"…한라산까지 '대변 테러' 경악",
                 "link": "https://n.news.naver.com/article/015/0005214762?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/015/2025/11/23/5214762.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             },
             {
                 "title": "\"아이와 꼭 같이 오라\"던 영어유치원 상담…알고보니 [이미경의 교육지책]",
                 "link": "https://n.news.naver.com/article/015/0005214802?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/015/2025/11/23/5214802.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
             },
             {
                 "title": "\"가볍게 점심 한 끼 때우자\"…칼국수 한 그릇 먹었다가 '당황'",
                 "link": "https://n.news.naver.com/article/015/0005214759?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/015/2025/11/23/5214759.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -183,34 +183,34 @@
         "press_name": "노컷뉴스",
         "articles": [
             {
-                "title": "김현철 \"민주, YS 10주기에 개미새끼 한 마리도…김어준 아바타\"",
-                "link": "https://n.news.naver.com/article/079/0004088712?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/079/2025/11/23/4088712.jpg?type=nf70_70",
-                "time": "7시간전"
-            },
-            {
                 "title": "與전현희 \"尹 석방 반드시 막아야…내란재판부 도입 필요\"",
                 "link": "https://n.news.naver.com/article/079/0004088759?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/079/2025/11/23/4088759.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             },
             {
                 "title": "'계엄령 놀이' 환경미화원 괴롭힌 7급 공무원…양양군 \"깊이 송구, 엄정 조치할 것\"",
                 "link": "https://n.news.naver.com/article/079/0004088750?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/079/2025/11/23/4088750.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
             },
             {
                 "title": "일본은 이미 뒤집었다…'거꾸로 지도'의 지정학[한반도 리뷰]",
                 "link": "https://n.news.naver.com/article/079/0004088688?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/079/2025/11/23/4088688.jpg?type=nf70_70",
-                "time": "12시간전"
+                "time": "13시간전"
+            },
+            {
+                "title": "윤건영 \"尹, 국정원 업무보고에 소폭 돌리다 업혀 나와\"",
+                "link": "https://n.news.naver.com/article/079/0004088769?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/079/2025/11/23/4088769.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "부자들에게 운동을 가르쳐봤더니…헬스 트레이너가 본 성공한 리더의 특징[의사결정]",
                 "link": "https://n.news.naver.com/article/079/0004088685?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/079/2025/11/23/4088685.jpg?type=nf70_70",
-                "time": "12시간전"
+                "time": "13시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -224,34 +224,34 @@
         "press_name": "서울신문",
         "articles": [
             {
-                "title": "“11월 서울 아파트 매매가 상승률 5년2개월만에 최고” KB부동산 기준",
-                "link": "https://n.news.naver.com/article/081/0003594468?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/081/2025/11/23/3594468.jpg?type=nf70_70",
-                "time": "2시간전"
+                "title": "장동혁 “이재명 아웃, 대한민국 고 온”…李대통령에 ‘레드카드’",
+                "link": "https://n.news.naver.com/article/081/0003594488?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/081/2025/11/23/3594488.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
-                "title": "‘계엄령 놀이’라며 미화원 폭행한 7급 공무원 ‘충격’…양양군 “깊이 송구”",
-                "link": "https://n.news.naver.com/article/081/0003594473?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/081/2025/11/23/3594473.jpg?type=nf70_70",
-                "time": "2시간전"
-            },
-            {
-                "title": "“여보, 2천만원만 보내줘요”…중년 남성, ‘여친’에게 받은 문자 정체",
-                "link": "https://n.news.naver.com/article/081/0003594455?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/081/2025/11/23/3594455.jpg?type=nf70_70",
-                "time": "3시간전"
+                "title": "G20 앞두고 최대 걱정이 ‘싸구려 옷’?…日총리, 미용실·피부 이어 SNS 논란",
+                "link": "https://n.news.naver.com/article/081/0003594490?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/081/2025/11/23/3594490.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "41세男 뱃속에 무려 9kg 대변 덩어리 쌓여…‘변비’ 한 달 방치로 목숨 잃어",
                 "link": "https://n.news.naver.com/article/081/0003594450?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/081/2025/11/23/3594450.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "6시간전"
+            },
+            {
+                "title": "강훈식, 양양 ‘계엄령 놀이’ 갑질 공무원에 “감사·수사로 엄정 조치”",
+                "link": "https://n.news.naver.com/article/081/0003594489?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/081/2025/11/23/3594489.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "‘이 채소·과일’ 막 먹었다간 소변서 살충제 ‘펑펑’…美 연구진 충격 발표",
                 "link": "https://n.news.naver.com/article/081/0003594437?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/081/2025/11/23/3594437.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -260,34 +260,34 @@
         "press_name": "파이낸셜뉴스",
         "articles": [
             {
-                "title": "\"소명 못하면 3억 갚아야돼\"...'범죄 연루' 협박에 흔들린 40대 직장인 [조선피싱실록]",
-                "link": "https://n.news.naver.com/article/014/0005438494?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/014/2025/11/23/5438494.jpg?type=nf70_70",
-                "time": "2시간전"
-            },
-            {
-                "title": "\"발가락 사이까지 말리더라\"..헤어드라이기로 온몸 말린 헬스장 민폐女 [어떻게 생각하세요]",
-                "link": "https://n.news.naver.com/article/014/0005438400?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/014/2025/11/23/5438400.jpg?type=nf70_70",
-                "time": "6시간전"
+                "title": "록밴드 ‘부활' 4대 보컬 김재희, 2000억대 투자 사기 가담 '충격'",
+                "link": "https://n.news.naver.com/article/014/0005438522?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/014/2025/11/23/5438522.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "\"누구 빽인데, 이 몸매로 1등?\"..모델대회 우승자 체형 두고 中 '발칵'",
                 "link": "https://n.news.naver.com/article/014/0005438374?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/014/2025/11/23/5438374.jpg?type=nf70_70",
-                "time": "9시간전"
+                "time": "10시간전"
             },
             {
                 "title": "\"140만원에 맞춘 브라, 한달 지나면 안 맞는다\"..가슴 무게 '25kg' 호소한 20대女 [헬스톡]",
                 "link": "https://n.news.naver.com/article/014/0005438367?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/014/2025/11/23/5438367.jpg?type=nf70_70",
-                "time": "10시간전"
+                "time": "11시간전"
+            },
+            {
+                "title": "겉도는 트럼프에 뿔난 G20 정상들, 만나자 마자 '공동 선언'",
+                "link": "https://n.news.naver.com/article/014/0005438515?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/014/2025/11/23/5438515.jpg?type=nf70_70",
+                "time": "2시간전"
             },
             {
                 "title": "부자 남친과 결혼하는 친구, 청첩장 모임은 '치킨집'..\"서운하다\" [어떻게 생각하세요]",
                 "link": "https://n.news.naver.com/article/014/0005438365?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/014/2025/11/23/5438365.jpg?type=nf70_70",
-                "time": "11시간전"
+                "time": "12시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -296,22 +296,22 @@
         "press_name": "한국일보",
         "articles": [
             {
-                "title": "[속보] 조국, 조국혁신당 당대표 선출… \"새로운 항로 개척하겠다\"",
-                "link": "https://n.news.naver.com/article/469/0000899067?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/469/2025/11/23/899067.jpg?type=nf70_70",
-                "time": "1시간전"
-            },
-            {
                 "title": "美 언론 \"'조지아 구금' 한국인 엔지니어 50명가량, 미국 재입국\"",
                 "link": "https://n.news.naver.com/article/469/0000899049?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/469/2025/11/23/899049.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
+            },
+            {
+                "title": "\"영상 보면 냄비 세트 무료\" 딥페이크에 가장 많이 악용된 연예인은?",
+                "link": "https://n.news.naver.com/article/469/0000899080?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/469/2025/11/23/899080.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "서울 자가에 대구서 관사 살던 홍시장 이야기",
                 "link": "https://n.news.naver.com/article/469/0000899018?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/469/2025/11/23/899018.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "6시간전"
             },
             {
                 "title": "'2000억대 폰지사기' 가담 50대 가수는 부활 출신 김재희",
@@ -323,7 +323,7 @@
                 "title": "한라산에서 중국인 추정 대변 목격담...\"민폐 행동 어떻게 안되나\"",
                 "link": "https://n.news.naver.com/article/469/0000899020?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/469/2025/11/23/899020.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "6시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -332,33 +332,33 @@
         "press_name": "조선일보",
         "articles": [
             {
-                "title": "조국혁신당 당대표에 조국...찬성률 98.6%",
-                "link": "https://n.news.naver.com/article/023/0003942674?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/023/2025/11/23/3942674.jpg?type=nf70_70",
-                "time": "1시간전"
+                "title": "‘가맹점주에 연 15% 불법 대출’ 명륜진사갈비 대표 검찰 송치",
+                "link": "https://n.news.naver.com/article/023/0003942647?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/023/2025/11/23/3942647.jpg?type=nf70_70",
+                "time": "6시간전"
             },
             {
-                "title": "2000억원대 투자사기 가담 혐의…부활 출신 김재희 송치",
-                "link": "https://n.news.naver.com/article/023/0003942625?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/023/2025/11/23/3942625.jpg?type=nf70_70",
-                "time": "7시간전"
+                "title": "11월 말까지 잦은 비·눈...내일 출근길도 곳곳 비",
+                "link": "https://n.news.naver.com/article/023/0003942663?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/023/2025/11/23/3942663.jpg?type=nf70_70",
+                "time": "4시간전"
             },
             {
                 "title": "‘계엄령 놀이’ 환경미화원들 괴롭힌 7급 공무원…양양군 “심려 끼쳐 송구”",
                 "link": "https://n.news.naver.com/article/023/0003942668?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/023/2025/11/23/3942668.jpg?type=nf70_70",
-                "time": "2시간전"
-            },
-            {
-                "title": "비트코인 ‘100만달러’ 간다던 부자아빠…33억어치 팔아치웠다",
-                "link": "https://n.news.naver.com/article/023/0003942661?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/023/2025/11/23/3942661.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "3시간전"
             },
             {
                 "title": "손흥민의 아메리칸 드림, 8강 골포스트에 막혔다",
                 "link": "https://n.news.naver.com/article/023/0003942658?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/023/2025/11/23/3942658.jpg?type=nf70_70",
+                "time": "5시간전"
+            },
+            {
+                "title": "비트코인 ‘100만달러’ 간다던 부자아빠…33억어치 팔아치웠다",
+                "link": "https://n.news.naver.com/article/023/0003942661?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/023/2025/11/23/3942661.jpg?type=nf70_70",
                 "time": "4시간전"
             }
         ],
@@ -368,34 +368,34 @@
         "press_name": "JTBC",
         "articles": [
             {
-                "title": "가덕도신공항 공기 연장…부산시 \"토론·검증 충분…자기모순 결정\"",
-                "link": "https://n.news.naver.com/article/437/0000465655?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/437/2025/11/22/465655.jpg?type=nf70_70",
-                "time": "21시간전"
-            },
-            {
                 "title": "도주 끝 체포된 '도이치 주포' 구속",
                 "link": "https://n.news.naver.com/article/437/0000465661?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/437/2025/11/23/465661.jpg?type=nf70_70",
-                "time": "16시간전"
+                "time": "17시간전"
             },
             {
-                "title": "법정을 아스팔트로…김용현 변호인의 일주일",
-                "link": "https://n.news.naver.com/article/437/0000465658?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/437/2025/11/22/465658.jpg?type=nf70_70",
-                "time": "20시간전"
+                "title": "가덕도신공항 공기 연장…부산시 \"토론·검증 충분…자기모순 결정\"",
+                "link": "https://n.news.naver.com/article/437/0000465655?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/437/2025/11/22/465655.jpg?type=nf70_70",
+                "time": "22시간전"
             },
             {
                 "title": "\"김치는 찢어 먹어야 제맛\" 한식 외교 나선 김혜경…이 대통령과 '키세스단' 언급한 이유는?",
                 "link": "https://n.news.naver.com/article/437/0000465686?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/437/2025/11/23/465686.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             },
             {
                 "title": "\"물린 쪽도 잘못\"…개 물림 가해 견주, 뻔뻔한 태도 경악",
                 "link": "https://n.news.naver.com/article/437/0000465662?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/437/2025/11/23/465662.jpg?type=nf70_70",
-                "time": "9시간전"
+                "time": "10시간전"
+            },
+            {
+                "title": "조국, 사면복권 약 3개월 만에 조국혁신당 대표 당선",
+                "link": "https://n.news.naver.com/article/437/0000465692?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/437/2025/11/23/465692.jpg?type=nf70_70",
+                "time": "1시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -404,34 +404,34 @@
         "press_name": "KBS",
         "articles": [
             {
+                "title": "조국, 조국혁신당 대표 당선…“국민 뜻 따라 신항로 개척”",
+                "link": "https://n.news.naver.com/article/056/0012071849?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/056/2025/11/23/12071849.jpg?type=nf70_70",
+                "time": "2시간전"
+            },
+            {
                 "title": "“바지 내린 아이, 휴지 든 엄마”…한라산 갔다 ‘경악’ [잇슈#태그]",
                 "link": "https://n.news.naver.com/article/056/0012071850?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/056/2025/11/23/12071850.jpg?type=nf70_70",
-                "time": "59분전"
-            },
-            {
-                "title": "강원도 양양군, 환경미화원 괴롭힘 사건 공식 사과",
-                "link": "https://n.news.naver.com/article/056/0012071848?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/056/2025/11/23/12071848.jpg?type=nf70_70",
                 "time": "1시간전"
             },
             {
                 "title": "‘선행매매’로 111억 꿀꺽…전직 기자 등 2명 구속송치",
                 "link": "https://n.news.naver.com/article/056/0012071821?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/056/2025/11/23/12071821.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "6시간전"
             },
             {
-                "title": "조국, 조국혁신당 대표 당선…“국민 뜻 따라 신항로 개척”",
-                "link": "https://n.news.naver.com/article/056/0012071849?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/056/2025/11/23/12071849.jpg?type=nf70_70",
-                "time": "1시간전"
+                "title": "강원도 양양군, 환경미화원 괴롭힘 사건 공식 사과",
+                "link": "https://n.news.naver.com/article/056/0012071848?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/056/2025/11/23/12071848.jpg?type=nf70_70",
+                "time": "2시간전"
             },
             {
                 "title": "“나의 기억, 틀리지 않았다”…기록으로 尹 흔든 증인들 (7화) [뉴쑤다]",
                 "link": "https://n.news.naver.com/article/056/0012071831?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/056/2025/11/23/12071831.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "5시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -440,10 +440,10 @@
         "press_name": "헤럴드경제",
         "articles": [
             {
-                "title": "부천 시장 돌진 사고 비극 막는다… 경찰, 고령 운전자에 페달 오조작 방지 장치 추가 보급 [세상&]",
-                "link": "https://n.news.naver.com/article/016/0002561597?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/016/2025/11/23/2561597.jpg?type=nf70_70",
-                "time": "7시간전"
+                "title": "무한리필 명륜진사갈비 충격 실태…가맹점 불법대부로 155억 챙겼다 [세상&]",
+                "link": "https://n.news.naver.com/article/016/0002561663?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/016/2025/11/23/2561663.jpg?type=nf70_70",
+                "time": "4시간전"
             },
             {
                 "title": "기겁한 관광객 눈을 의심했다…베네치아 바다 초록빛으로 변했다. 왜?",
@@ -452,22 +452,22 @@
                 "time": "9시간전"
             },
             {
-                "title": "“결국 20만원 내렸다” 하루 1대도 안 팔려…너무하다했더니, 특단 조치",
-                "link": "https://n.news.naver.com/article/016/0002561528?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/016/2025/11/22/2561528.jpg?type=nf70_70",
-                "time": "21시간전"
+                "title": "[단독] “내가 왜 마약사범이야!” 월 600~700 유혹에 인생을 날렸다 [백색가루의 종착지-쓰고 버려지는 청년들]",
+                "link": "https://n.news.naver.com/article/016/0002561513?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/016/2025/11/22/2561513.jpg?type=nf70_70",
+                "time": "1일전"
             },
             {
                 "title": "충격적인 ‘19금 작품’…“이건 너무 끔찍하다했더니” 결국 사상 첫 100만 찍었다",
                 "link": "https://n.news.naver.com/article/016/0002561520?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/016/2025/11/22/2561520.jpg?type=nf70_70",
-                "time": "22시간전"
+                "time": "23시간전"
             },
             {
-                "title": "[단독] “내가 왜 마약사범이야!” 월 600~700 유혹에 인생을 날렸다 [백색가루의 종착지-쓰고 버려지는 청년들]",
-                "link": "https://n.news.naver.com/article/016/0002561513?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/016/2025/11/22/2561513.jpg?type=nf70_70",
-                "time": "23시간전"
+                "title": "“결국 20만원 내렸다” 하루 1대도 안 팔려…너무하다했더니, 특단 조치",
+                "link": "https://n.news.naver.com/article/016/0002561528?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/016/2025/11/22/2561528.jpg?type=nf70_70",
+                "time": "22시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -476,34 +476,34 @@
         "press_name": "오마이뉴스",
         "articles": [
             {
-                "title": "강득구 의원 \"속도보다  전국정당...균형 잡힌 개혁\" 요구",
-                "link": "https://n.news.naver.com/article/047/0002495920?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/047/2025/11/23/2495920.jpg?type=nf70_70",
-                "time": "3시간전"
+                "title": "곡성 '똥섬'의 변신, 아이들과 어른들을 기다립니다",
+                "link": "https://n.news.naver.com/article/047/0002495914?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/047/2025/11/23/2495914.jpg?type=nf70_70",
+                "time": "5시간전"
             },
             {
                 "title": "붕어빵 먹으러 왕복 두 시간, 대체 무슨 맛이길래",
                 "link": "https://n.news.naver.com/article/047/0002495881?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/047/2025/11/22/2495881.jpg?type=nf70_70",
-                "time": "21시간전"
+                "time": "22시간전"
             },
             {
                 "title": "전현희 \"검사18명 고발은 법사위 활동... 내란전담재판부 도입해야\"",
                 "link": "https://n.news.naver.com/article/047/0002495913?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/047/2025/11/23/2495913.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "5시간전"
             },
             {
                 "title": "서울 강남역에서 \"윤석열 풀려난다, 조희대 탄핵하라\"",
                 "link": "https://n.news.naver.com/article/047/0002495902?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/047/2025/11/23/2495902.jpg?type=nf70_70",
-                "time": "6시간전"
+                "time": "7시간전"
             },
             {
                 "title": "\"이재명 대표, 속으론 '이놈 봐라' 했을 것\"... 그가 택한 '전환' [12.7 탄핵박제 105인]",
                 "link": "https://n.news.naver.com/article/047/0002495896?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/047/2025/11/23/2495896.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -515,31 +515,31 @@
                 "title": "[속보] 조국혁신당 신임 당 대표에 조국 선출…찬성 98.6%",
                 "link": "https://n.news.naver.com/article/422/0000804687?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/422/2025/11/23/804687.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "2시간전"
             },
             {
                 "title": "\"노점 때문에 피해봤다\"…광장시장 '바가지 논란' 3억대 소송전으로",
                 "link": "https://n.news.naver.com/article/422/0000804589?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/422/2025/11/23/804589.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "6시간전"
             },
             {
-                "title": "'계엄령 놀이' 공무원 논란에 양양군 \"깊이 송구\"",
-                "link": "https://n.news.naver.com/article/422/0000804622?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/422/2025/11/23/804622.jpg?type=nf70_70",
-                "time": "3시간전"
+                "title": "강훈식, 양양 '괴롭힘 공무원' 논란에 \"감사·수사로 엄정 조치\"",
+                "link": "https://n.news.naver.com/article/422/0000804694?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/422/2025/11/23/804694.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
-                "title": "태국서 '마약 파티' 벌인 한국인…음란물 시청하며 온라인 도박하다 체포",
-                "link": "https://n.news.naver.com/article/422/0000804488?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/422/2025/11/23/804488.jpg?type=nf70_70",
-                "time": "11시간전"
+                "title": "이번엔 한라산 등산로서 바지 벗고 대변…\"치우지 않고 그냥 가\"",
+                "link": "https://n.news.naver.com/article/422/0000804695?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/422/2025/11/23/804695.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "중국서 실종된 반려견…1,500km 떨어진 곳에서 기적적 발견",
                 "link": "https://n.news.naver.com/article/422/0000804681?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/422/2025/11/23/804681.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "2시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -548,34 +548,34 @@
         "press_name": "중앙일보",
         "articles": [
             {
-                "title": "이번엔 \"몰지각\" 욕먹은 다카이치…\"마운트 취할수 있는 옷\" 파문",
-                "link": "https://n.news.naver.com/article/025/0003484612?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/025/2025/11/23/3484612.jpg?type=nf70_70",
-                "time": "1시간전"
+                "title": "中, 다카이치 뭇매는 본보기…'대만 폭탄' 강 건너 불 아니다",
+                "link": "https://n.news.naver.com/article/025/0003484606?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/025/2025/11/23/3484606.jpg?type=nf70_70",
+                "time": "2시간전"
             },
             {
                 "title": "美 뒤집은 흥민 매직, 승부차기에 뒤집혔다…LAFC 4강 좌절",
                 "link": "https://n.news.naver.com/article/025/0003484597?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/025/2025/11/23/3484597.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             },
             {
                 "title": "\"근무는 3시간, 책 보다 퇴근\" 은퇴 뒤 찾은 월 100만원 꿀직장",
                 "link": "https://n.news.naver.com/article/025/0003484588?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/025/2025/11/23/3484588.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
             },
             {
                 "title": "홍준표 반대한 '점심 휴무'…대구 공무원 \"이젠 밥 먹으러 갑니다\"",
                 "link": "https://n.news.naver.com/article/025/0003484560?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/025/2025/11/23/3484560.jpg?type=nf70_70",
-                "time": "10시간전"
+                "time": "11시간전"
             },
             {
                 "title": "\"중국인들 대체 왜 이러나\"…이번엔 한라산 등산로서 '경악'",
                 "link": "https://n.news.naver.com/article/025/0003484585?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/025/2025/11/23/3484585.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "5시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -584,22 +584,16 @@
         "press_name": "매일경제",
         "articles": [
             {
-                "title": "“두개골 깨지고 싶냐”…쓴소리한 직원 자르고 출시 강행한다는데",
-                "link": "https://n.news.naver.com/article/009/0005594608?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/009/2025/11/23/5594608.jpg?type=nf70_70",
-                "time": "3시간전"
-            },
-            {
-                "title": "“드디어 상승 반전, 99주 걸렸다”…지방 부동산 ‘침체’ 끝나나",
-                "link": "https://n.news.naver.com/article/009/0005594631?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/009/2025/11/23/5594631.jpg?type=nf70_70",
+                "title": "“남은 소비쿠폰 잊지말고 쓰세요”…30일까지 안 쓰면 잔액 소멸",
+                "link": "https://n.news.naver.com/article/009/0005594636?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/009/2025/11/23/5594636.jpg?type=nf70_70",
                 "time": "2시간전"
             },
             {
-                "title": "“날 참 미워했던 아버지…평생 아빠라 못 불러” 김영철, 눈물의 고백",
-                "link": "https://n.news.naver.com/article/009/0005594672?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/009/2025/11/23/5594672.jpg?type=nf70_70",
-                "time": "1시간전"
+                "title": "“전과자·신불자는 걸러야지”…임대인 정보공개 확대에 집주인들, ‘임차인 면접’ 요구",
+                "link": "https://n.news.naver.com/article/009/0005594640?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/009/2025/11/23/5594640.jpg?type=nf70_70",
+                "time": "2시간전"
             },
             {
                 "title": "“여친이 딸기 뷔페 가자는데, 이 호텔이 좋겠네”…딸기 디저트 ‘이곳’에 총출동",
@@ -608,10 +602,16 @@
                 "time": "2시간전"
             },
             {
-                "title": "“우리 먹을것도 없는데 유명해지지마”…수출 10억달러 넘긴 K-반찬",
-                "link": "https://n.news.naver.com/article/009/0005594612?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/009/2025/11/23/5594612.jpg?type=nf70_70",
-                "time": "3시간전"
+                "title": "한국 문신남들 캄보디아서 보이스피싱 가담한 배경…중국서 쫓겨난 범죄조직 있었다 [한중일 톺아보기]",
+                "link": "https://n.news.naver.com/article/009/0005594689?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/009/2025/11/23/5594689.jpg?type=nf70_70",
+                "time": "1시간전"
+            },
+            {
+                "title": "“날 참 미워했던 아버지…평생 아빠라 못 불러” 김영철, 눈물의 고백",
+                "link": "https://n.news.naver.com/article/009/0005594672?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/009/2025/11/23/5594672.jpg?type=nf70_70",
+                "time": "2시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -620,22 +620,16 @@
         "press_name": "한국경제TV",
         "articles": [
             {
-                "title": "2천억대 '폰지사기' 가담 혐의…'부활' 출신 보컬 송치",
-                "link": "https://n.news.naver.com/article/215/0001231915?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/215/2025/11/23/1231915.jpg?type=nf70_70",
-                "time": "8시간전"
-            },
-            {
-                "title": "\"가벼운 한 끼로 딱이었는데\"…칼국수의 '배신'",
-                "link": "https://n.news.naver.com/article/215/0001231906?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/215/2025/11/23/1231906.jpg?type=nf70_70",
-                "time": "10시간전"
+                "title": "\"내 집에서 눈감고 싶어\"…현실은 많이 달랐다",
+                "link": "https://n.news.naver.com/article/215/0001231940?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/215/2025/11/23/1231940.jpg?type=nf70_70",
+                "time": "2시간전"
             },
             {
                 "title": "\"백약이 무효\"…서울 아파트값 상승률, 5년2개월 만에 '최고'",
                 "link": "https://n.news.naver.com/article/215/0001231937?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/215/2025/11/23/1231937.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             },
             {
                 "title": "아직 2200억 남았는데…\"안 쓰면 모두 소멸\"",
@@ -647,7 +641,13 @@
                 "title": "\"제네시스, 일 냈다\"…포르쉐 제치고 1위 '등극'",
                 "link": "https://n.news.naver.com/article/215/0001231933?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/215/2025/11/23/1231933.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "5시간전"
+            },
+            {
+                "title": "[속보] 손흥민 \"연장전 막판에 근육 경련 있었다…내년엔 우승\"",
+                "link": "https://n.news.naver.com/article/215/0001231941?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/215/2025/11/23/1231941.jpg?type=nf70_70",
+                "time": "1시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -661,34 +661,34 @@
         "press_name": "채널A",
         "articles": [
             {
-                "title": "日 쇼핑몰 女화장실에 불법카메라…천장서 뚝 떨어져",
-                "link": "https://n.news.naver.com/article/449/0000327399?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/449/2025/11/23/327399.jpg?type=nf70_70",
-                "time": "1시간전"
-            },
-            {
                 "title": "이준석 “국힘, 변화·쇄신 목소리 전혀 안 나와…지선 연대 가능성 없다” [현장영상]",
                 "link": "https://n.news.naver.com/article/449/0000327391?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/449/2025/11/23/327391.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             },
             {
                 "title": "조국, 조국혁신당 대표 복귀…찬성률 98.6%",
                 "link": "https://n.news.naver.com/article/449/0000327401?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/449/2025/11/23/327401.jpg?type=nf70_70",
-                "time": "46분전"
+                "time": "1시간전"
+            },
+            {
+                "title": "“재판부까지 압수수색” 김용현 변호인, 지귀연 ‘술접대 의혹’ 거론 [현장영상]",
+                "link": "https://n.news.naver.com/article/449/0000327400?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/449/2025/11/23/327400.jpg?type=nf70_70",
+                "time": "1시간전"
+            },
+            {
+                "title": "고령 운전자 141명 페달 조작 분석했더니…“3개월간 오조작 71회”",
+                "link": "https://n.news.naver.com/article/449/0000327402?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/449/2025/11/23/327402.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "“진짜 왜 이러시나”…한라산까지 ‘대변 테러’",
                 "link": "https://n.news.naver.com/article/449/0000327389?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/449/2025/11/23/327389.jpg?type=nf70_70",
-                "time": "3시간전"
-            },
-            {
-                "title": "‘그가 자리 뜨자 2분 뒤 연기 올라’…의성 산불 용의자 체포",
-                "link": "https://n.news.naver.com/article/449/0000327397?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/449/2025/11/23/327397.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "4시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -708,28 +708,28 @@
                 "time": "1시간전"
             },
             {
-                "title": "광장시장 '바가지 논란' 결국…노점 상대 3억원대 소송전",
+                "title": "바가지 논란 광장시장 결국…노점 상대 '3억 소송전'",
                 "link": "https://n.news.naver.com/article/011/0004559038?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/011/2025/11/23/4559038.jpg?type=nf70_70",
-                "time": "1시간전"
-            },
-            {
-                "title": "일본인들 “한국 가서 싹쓸이하자” 했는데…우리나라 쌀값도 심상치 않다",
-                "link": "https://n.news.naver.com/article/011/0004558947?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/011/2025/11/22/4558947.jpg?type=nf70_70",
-                "time": "18시간전"
-            },
-            {
-                "title": "\"싼 게 비지떡인 줄 알았는데\"…다이소 '5000원' 초가성비 제품에 난리났다",
-                "link": "https://n.news.naver.com/article/011/0004558991?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/011/2025/11/23/4558991.jpg?type=nf70_70",
-                "time": "6시간전"
+                "time": "2시간전"
             },
             {
                 "title": "이륙하자마자 엔진 떨어져나가 '펑'…승무원 모두 숨진 美화물기 폭발 사고",
                 "link": "https://n.news.naver.com/article/011/0004558921?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/011/2025/11/22/4558921.jpg?type=nf70_70",
                 "time": "1일전"
+            },
+            {
+                "title": "일본인들 “한국 가서 싹쓸이하자” 했는데…우리나라 쌀값도 심상치 않다",
+                "link": "https://n.news.naver.com/article/011/0004558947?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/011/2025/11/22/4558947.jpg?type=nf70_70",
+                "time": "19시간전"
+            },
+            {
+                "title": "\"싼 게 비지떡인 줄 알았는데\"…다이소 '5000원' 초가성비 제품에 난리났다",
+                "link": "https://n.news.naver.com/article/011/0004558991?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/011/2025/11/23/4558991.jpg?type=nf70_70",
+                "time": "7시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -738,34 +738,34 @@
         "press_name": "YTN",
         "articles": [
             {
-                "title": "경찰 \"계양산 실종 추정 여성 귀가...수색 종료\"",
-                "link": "https://n.news.naver.com/article/052/0002277077?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/052/2025/11/23/2277077.jpg?type=nf70_70",
-                "time": "2시간전"
-            },
-            {
-                "title": "KB부동산 \"서울 아파트값 상승률 5년여 만에 최고\"",
-                "link": "https://n.news.naver.com/article/052/0002277095?ntype=RANKING",
-                "img_src": null,
-                "time": "1시간전"
-            },
-            {
-                "title": "경찰 \"계양산 실종 추정 여성 귀가...수색 중단\"",
-                "link": "https://n.news.naver.com/article/052/0002277093?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/052/2025/11/23/2277093.jpg?type=nf70_70",
-                "time": "1시간전"
-            },
-            {
-                "title": "[속보] 혁신당 대표에 조국...찬반 투표 결과 98.6% 찬성",
-                "link": "https://n.news.naver.com/article/052/0002277097?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/052/2025/11/23/2277097.jpg?type=nf70_70",
+                "title": "'내란' 첫 법적 판단 눈앞...한덕수, 내년 1월 선고",
+                "link": "https://n.news.naver.com/article/052/0002277119?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/052/2025/11/23/2277119.jpg?type=nf70_70",
                 "time": "1시간전"
             },
             {
                 "title": "정청래 \"윤, 초라하고 비루\"...장동혁 \"이재명 대통령 레드카드\"",
                 "link": "https://n.news.naver.com/article/052/0002277094?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/052/2025/11/23/2277094.jpg?type=nf70_70",
+                "time": "2시간전"
+            },
+            {
+                "title": "\"수능 국어 3번 정답 2개\"...또 불거진 수능 오류 주장",
+                "link": "https://n.news.naver.com/article/052/0002277110?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/052/2025/11/23/2277110.jpg?type=nf70_70",
                 "time": "1시간전"
+            },
+            {
+                "title": "경찰 \"계양산 실종 추정 여성 무사...수색 중단\"",
+                "link": "https://n.news.naver.com/article/052/0002277113?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/052/2025/11/23/2277113.jpg?type=nf70_70",
+                "time": "1시간전"
+            },
+            {
+                "title": "KB부동산 \"서울 아파트값 상승률 5년여 만에 최고\"",
+                "link": "https://n.news.naver.com/article/052/0002277095?ntype=RANKING",
+                "img_src": null,
+                "time": "2시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -774,34 +774,34 @@
         "press_name": "한겨레",
         "articles": [
             {
-                "title": "7급 공무원의 ‘계엄령 놀이’…주가 떨어졌다고 환경미화원 서로 때리게",
-                "link": "https://n.news.naver.com/article/028/0002777875?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/028/2025/11/23/2777875.jpg?type=nf70_70",
+                "title": "김혜경 여사 “대통령, 키세스단이 쉬엄쉬엄 하는 대통령 뽑지 않았다 말해”",
+                "link": "https://n.news.naver.com/article/028/0002777877?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/028/2025/11/23/2777877.jpg?type=nf70_70",
+                "time": "2시간전"
+            },
+            {
+                "title": "‘서울 자가 김 부장’에 통신3사 임원 눈물? 실화 바탕 이야기에 ‘뜨끔’",
+                "link": "https://n.news.naver.com/article/028/0002777893?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/028/2025/11/23/2777893.jpg?type=nf70_70",
                 "time": "1시간전"
             },
             {
-                "title": "최악 대통령, 매국노 윤석열…국민 생명 담보로 ‘전쟁 도박판’",
-                "link": "https://n.news.naver.com/article/028/0002777801?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/028/2025/11/23/2777801.jpg?type=nf70_70",
-                "time": "8시간전"
-            },
-            {
-                "title": "‘부활’ 출신 가수 김재희, 2천억 다단계 금융사기 가담 혐의 검찰 송치",
-                "link": "https://n.news.naver.com/article/028/0002777864?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/028/2025/11/23/2777864.jpg?type=nf70_70",
+                "title": "법정은 지귀연의 것도, 이진관의 것도 아니다 [아침햇발]",
+                "link": "https://n.news.naver.com/article/028/0002777869?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/028/2025/11/23/2777869.jpg?type=nf70_70",
                 "time": "2시간전"
             },
             {
                 "title": "[단독] 나경원, 장애인 체육기관 ‘상왕’ 논란…무경력 회장 탄생의 전말",
                 "link": "https://n.news.naver.com/article/028/0002777867?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/028/2025/11/23/2777867.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             },
             {
                 "title": "다카이치 “G20 옷 고르느라 몇 시간” 후폭풍…일본서도 “실언 제조기”",
                 "link": "https://n.news.naver.com/article/028/0002777816?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/028/2025/11/23/2777816.jpg?type=nf70_70",
-                "time": "6시간전"
+                "time": "7시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -810,34 +810,34 @@
         "press_name": "강원일보",
         "articles": [
             {
-                "title": "정청래 \"비루한 윤석열 보면서 '윤어게인' 외치는 옹호 세력에 누가 마음을 열어주겠는가\"",
-                "link": "https://n.news.naver.com/article/087/0001156610?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/087/2025/11/23/1156610.jpg?type=nf70_70",
-                "time": "1시간전"
+                "title": "장동혁, 전국 순회 연설 비판한 정청래 향해 \"국민과 헤어질 결심하고 이재명 위해 모든 것 다 버리는 민주당\"",
+                "link": "https://n.news.naver.com/article/087/0001156526?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/087/2025/11/23/1156526.jpg?type=nf70_70",
+                "time": "6시간전"
             },
             {
                 "title": "퀸제누비아2호 좌초 사고 당시 협수로 구간서 선박 조종 지휘 의무 방기한 60대 선장 구속영장",
                 "link": "https://n.news.naver.com/article/087/0001156511?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/087/2025/11/23/1156511.jpg?type=nf70_70",
-                "time": "6시간전"
+                "time": "7시간전"
             },
             {
                 "title": "전현희 \"국힘과 조희대 사법부, 내란 종식 방해하고 심지어 비호…윤석열 두번째 석방만큼은 무슨일 있어도 막아야\"",
                 "link": "https://n.news.naver.com/article/087/0001156561?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/087/2025/11/23/1156561.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "5시간전"
             },
             {
                 "title": "중학교 동창 상습 폭행하고 39차례에 걸쳐 1천500여만원 뜯어낸 20대 징역 2년 6개월",
                 "link": "https://n.news.naver.com/article/087/0001156547?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/087/2025/11/23/1156547.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "5시간전"
             },
             {
                 "title": "70대 어머니에 수 차례 흉기 휘둘러 살해한 20대 체포",
                 "link": "https://n.news.naver.com/article/087/0001156506?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/087/2025/11/23/1156506.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -846,34 +846,34 @@
         "press_name": "아시아경제",
         "articles": [
             {
-                "title": "\"2억5000만이 10억 돼\"…김구라 아들, 아파트 대박났다",
-                "link": "https://n.news.naver.com/article/277/0005683185?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/277/2025/11/23/5683185.jpg?type=nf70_70",
+                "title": "\"손님 줄어 피해 막심\"…'바가지 논란'에 광장시장 상인들, 노점 상대 3억 소송전",
+                "link": "https://n.news.naver.com/article/277/0005683198?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/277/2025/11/23/5683198.jpg?type=nf70_70",
                 "time": "3시간전"
             },
             {
-                "title": "18세로 회춘 위해 수십억 쓰는 억만장자 끊었던 '이것' 다시 먹는 이유",
-                "link": "https://n.news.naver.com/article/277/0005683070?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/277/2025/11/22/5683070.jpg?type=nf70_70",
-                "time": "1일전"
+                "title": "\"얕보이지 않는 옷 고르느라\" 뭐길래…日서 논란 중인 총리의 한마디",
+                "link": "https://n.news.naver.com/article/277/0005683186?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/277/2025/11/23/5683186.jpg?type=nf70_70",
+                "time": "4시간전"
+            },
+            {
+                "title": "\"사람 머리도 부순다\" 충격 경고했다가 해고된 직원…'기업가치 3조' 로봇 회사는 소송중",
+                "link": "https://n.news.naver.com/article/277/0005683146?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/277/2025/11/23/5683146.jpg?type=nf70_70",
+                "time": "8시간전"
             },
             {
                 "title": "\"거품 터지면 결국 추락\"…'어딜 먼저 팔까' 질문에 실리콘밸리 전문가들의 선택",
                 "link": "https://n.news.naver.com/article/277/0005683100?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/277/2025/11/23/5683100.jpg?type=nf70_70",
-                "time": "11시간전"
+                "time": "12시간전"
             },
             {
                 "title": "7년만에 시세차익 337억…스타강사 현우진, 논현동 땅 '대박'",
                 "link": "https://n.news.naver.com/article/277/0005683175?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/277/2025/11/23/5683175.jpg?type=nf70_70",
                 "time": "5시간전"
-            },
-            {
-                "title": "\"얕보이지 않는 옷 고르느라\" 뭐길래…日서 논란 중인 총리의 한마디",
-                "link": "https://n.news.naver.com/article/277/0005683186?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/277/2025/11/23/5683186.jpg?type=nf70_70",
-                "time": "3시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -882,34 +882,34 @@
         "press_name": "이데일리",
         "articles": [
             {
-                "title": "[속보]조국, 조국혁신당 대표 선출…찬성 98.6% 득표",
-                "link": "https://n.news.naver.com/article/018/0006169988?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/018/2025/11/23/6169988.jpg?type=nf70_70",
+                "title": "\"정청래, 대장동 토론하자\"…국힘 \"떳떳하면 참여하라\"",
+                "link": "https://n.news.naver.com/article/018/0006170005?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/018/2025/11/23/6170005.jpg?type=nf70_70",
                 "time": "1시간전"
-            },
-            {
-                "title": "“650억 개발 가치”…‘스타강사’ 현우진, 논현동 땅 ‘대박’",
-                "link": "https://n.news.naver.com/article/018/0006169940?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/018/2025/11/23/6169940.jpg?type=nf70_70",
-                "time": "3시간전"
-            },
-            {
-                "title": "“살려주세요”…계양산 실종 의심 여성, 알고보니 ‘무사 귀가’",
-                "link": "https://n.news.naver.com/article/018/0006169954?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/018/2025/11/23/6169954.jpg?type=nf70_70",
-                "time": "2시간전"
-            },
-            {
-                "title": "“칼국수 1인분 이 가격 맞아?”…칼바람 부는 외식물가",
-                "link": "https://n.news.naver.com/article/018/0006169974?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/018/2025/11/23/6169974.jpg?type=nf70_70",
-                "time": "2시간전"
             },
             {
                 "title": "‘시세 170억’ 린가드 사는 성수 최고급 펜트하우스는[누구집]",
                 "link": "https://n.news.naver.com/article/018/0006169806?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/018/2025/11/23/6169806.jpg?type=nf70_70",
-                "time": "9시간전"
+                "time": "10시간전"
+            },
+            {
+                "title": "“칼국수 1인분 이 가격 맞아?”…칼바람 부는 외식물가",
+                "link": "https://n.news.naver.com/article/018/0006169974?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/018/2025/11/23/6169974.jpg?type=nf70_70",
+                "time": "3시간전"
+            },
+            {
+                "title": "“650억 개발 가치”…‘스타강사’ 현우진, 논현동 땅 ‘대박’",
+                "link": "https://n.news.naver.com/article/018/0006169940?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/018/2025/11/23/6169940.jpg?type=nf70_70",
+                "time": "4시간전"
+            },
+            {
+                "title": "“살려주세요”…계양산 실종 의심 여성, 알고보니 ‘무사 귀가’",
+                "link": "https://n.news.naver.com/article/018/0006169954?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/018/2025/11/23/6169954.jpg?type=nf70_70",
+                "time": "3시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -918,34 +918,34 @@
         "press_name": "지디넷코리아",
         "articles": [
             {
-                "title": "트럼프, 주(州) AI 규제 무력화 시도 ‘제동’…정치권·시민단체 총반발",
-                "link": "https://n.news.naver.com/article/092/0002399492?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/092/2025/11/23/2399492.jpg?type=nf70_70",
-                "time": "6시간전"
+                "title": "\"고객님 계정 해킹됐습니다\"…구글, 印서 디지털 사기 급증에 AI로 특단 대책",
+                "link": "https://n.news.naver.com/article/092/0002399470?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/092/2025/11/22/2399470.jpg?type=nf70_70",
+                "time": "23시간전"
             },
             {
                 "title": "일본, 중국 주장 일축…\"대만 관련 입장 바뀐 적 없다\"",
                 "link": "https://n.news.naver.com/article/092/0002399511?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/092/2025/11/23/2399511.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
             },
             {
                 "title": "[이기자의 게임픽] \"엔씨, 달라졌다\"...'아이온2'로 신뢰회복·흥행 모두 잡아",
                 "link": "https://n.news.naver.com/article/092/0002399479?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/092/2025/11/23/2399479.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             },
             {
                 "title": "BMW 3만 대 생산한 로봇 은퇴…‘피규어02’가 남긴 기록",
                 "link": "https://n.news.naver.com/article/092/0002399514?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/092/2025/11/23/2399514.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             },
             {
                 "title": "중고폰 샀다가 낭패…불량·미배송 피해 줄줄이",
                 "link": "https://n.news.naver.com/article/092/0002399512?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/092/2025/11/23/2399512.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -954,28 +954,28 @@
         "press_name": "동아일보",
         "articles": [
             {
-                "title": "“짐승 발자국 따라 네발로 뛰었다” 9년차 북한군의 탈북기〈2〉 [주성하의 북에서 온 이웃]",
-                "link": "https://n.news.naver.com/article/020/0003676392?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/020/2025/11/23/3676392.jpg?type=nf70_70",
-                "time": "7시간전"
-            },
-            {
-                "title": "장동혁 취임 100일이 비상계엄 1주년…‘尹 절연’ 두고 복잡한 속내",
-                "link": "https://n.news.naver.com/article/020/0003676411?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/020/2025/11/23/3676411.jpg?type=nf70_70",
+                "title": "집념과 환상의 손흥민 ‘원맨쇼’…美 도전, 8강 골포스트서 멈췄다",
+                "link": "https://n.news.naver.com/article/020/0003676430?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/020/2025/11/23/3676430.jpg?type=nf70_70",
                 "time": "2시간전"
             },
             {
                 "title": "강남 50억 아파트서 주민 갑질…“1인1식 안내했다고 욕설에 민원”",
                 "link": "https://n.news.naver.com/article/020/0003676407?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/020/2025/11/23/3676407.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
+            },
+            {
+                "title": "대통령실 청와대로, 국방부는 다시 용산행…이사비만 238억",
+                "link": "https://n.news.naver.com/article/020/0003676432?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/020/2025/11/23/3676432.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "김치 위 ‘하얀 막’ 정체는? 곰팡이 아닌 ‘○○○’다 [알쓸톡]",
                 "link": "https://n.news.naver.com/article/020/0003676390?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/020/2025/11/23/3676390.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             },
             {
                 "title": "손미나 “하와이서 교통사고…죽음 받아들이며 인생 바뀌어”",
@@ -990,34 +990,34 @@
         "press_name": "뉴시스",
         "articles": [
             {
-                "title": "[속보]강훈식 비서실장, '계엄령 놀이' 갑질 공무원 수사·엄정 조치 지시",
-                "link": "https://n.news.naver.com/article/003/0013616417?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/003/2025/11/23/13616417.jpg?type=nf70_70",
-                "time": "53분전"
+                "title": "\"새벽배송은 혁신 아닌 착취\"…택배노조, 광화문 시민대행진",
+                "link": "https://n.news.naver.com/article/003/0013616306?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/003/2025/11/23/13616306.jpg?type=nf70_70",
+                "time": "2시간전"
             },
             {
-                "title": "이준석 \"국힘, 변화·쇄신 목소리 안 나와…지선 연대 가능성 없어\"",
-                "link": "https://n.news.naver.com/article/003/0013616104?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/003/2025/11/23/13616104.jpg?type=nf70_70",
-                "time": "5시간전"
+                "title": "조국혁신당 당대표에 조국 당선…찬성 98.6%",
+                "link": "https://n.news.naver.com/article/003/0013616415?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/003/2025/11/23/13616415.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "\"폴댄스 영상 올리는 회사 동기…남자 지인들도 있는데 민망\"",
                 "link": "https://n.news.naver.com/article/003/0013615950?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/003/2025/11/23/13615950.jpg?type=nf70_70",
-                "time": "6시간전"
+                "time": "7시간전"
             },
             {
                 "title": "\"남편이 원해 신혼 리스·딩크인데…알고보니 업소 들락날락\"",
                 "link": "https://n.news.naver.com/article/003/0013616151?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/003/2025/11/23/13616151.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "5시간전"
             },
             {
                 "title": "\"18개월 아기에게 생굴 먹여 장염 걸리게 한 시모…고소할 것\"",
                 "link": "https://n.news.naver.com/article/003/0013616023?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/003/2025/11/23/13616023.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "6시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1026,34 +1026,34 @@
         "press_name": "코리아헤럴드",
         "articles": [
             {
-                "title": "Korean dried seaweed exports top $1b on solid US demand",
-                "link": "https://n.news.naver.com/article/044/0000277001?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/044/2025/11/23/277001.jpg?type=nf70_70",
-                "time": "2시간전"
-            },
-            {
-                "title": "‘Yakiniku Dragon’ revisits Korean Japanese family caught between wars, borders",
-                "link": "https://n.news.naver.com/article/044/0000277000?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/044/2025/11/23/277000.jpg?type=nf70_70",
-                "time": "2시간전"
-            },
-            {
-                "title": "Husband arrested after wife found with fatal bedsores",
-                "link": "https://n.news.naver.com/article/044/0000276996?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/044/2025/11/23/276996.jpg?type=nf70_70",
-                "time": "3시간전"
-            },
-            {
                 "title": "Twice subunit Misamo to release first Japanese studio album 'Play' in February",
                 "link": "https://n.news.naver.com/article/044/0000276993?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/044/2025/11/23/276993.jpg?type=nf70_70",
                 "time": "4시간전"
             },
             {
-                "title": "Korea’s defense exports triple in Middle East over past 5 years: report",
-                "link": "https://n.news.naver.com/article/044/0000276997?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/044/2025/11/23/276997.jpg?type=nf70_70",
+                "title": "Teen's death after 14 hospital rejections exposes ER crisis",
+                "link": "https://n.news.naver.com/article/044/0000277004?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/044/2025/11/23/277004.jpg?type=nf70_70",
                 "time": "3시간전"
+            },
+            {
+                "title": "Overcharging scandal at Gwangjang Market escalates into fight among merchant groups",
+                "link": "https://n.news.naver.com/article/044/0000277006?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/044/2025/11/23/277006.jpg?type=nf70_70",
+                "time": "2시간전"
+            },
+            {
+                "title": "Lee calls for climate solidarity as G20 issues early declaration",
+                "link": "https://n.news.naver.com/article/044/0000277007?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/044/2025/11/23/277007.jpg?type=nf70_70",
+                "time": "2시간전"
+            },
+            {
+                "title": "Actor Nana will not face charges after fighting off armed intruder",
+                "link": "https://n.news.naver.com/article/044/0000276985?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/044/2025/11/23/276985.jpg?type=nf70_70",
+                "time": "7시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1067,34 +1067,34 @@
         "press_name": "경기일보",
         "articles": [
             {
-                "title": "[속보] 조국혁신당, 조국 대표 선출… 98.6% ‘압도적 당선’",
+                "title": "조국혁신당, 조국 대표 선출… 98.6% ‘압도적 당선’",
                 "link": "https://n.news.naver.com/article/666/0000088626?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/666/2025/11/23/88626.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "2시간전"
             },
             {
-                "title": "가맹점에 연 15% 불법 대출...155억 챙긴 명륜당 대표 송치",
-                "link": "https://n.news.naver.com/article/666/0000088610?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/666/2025/11/23/88610.jpg?type=nf70_70",
-                "time": "3시간전"
-            },
-            {
-                "title": "처음 본 여성 2명 성추행에 갈비 절도까지...20대 징역형",
-                "link": "https://n.news.naver.com/article/666/0000088609?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/666/2025/11/23/88609.jpg?type=nf70_70",
-                "time": "3시간전"
+                "title": "카톡 친구탭 다시 생긴다...내달 업데이트 예정",
+                "link": "https://n.news.naver.com/article/666/0000088572?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/666/2025/11/23/88572.jpg?type=nf70_70",
+                "time": "11시간전"
             },
             {
                 "title": "\"여보, 입국하면 2천만원만\"…순찰 중 로맨스스캠 막은 경찰 화제",
                 "link": "https://n.news.naver.com/article/666/0000088599?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/666/2025/11/23/88599.jpg?type=nf70_70",
+                "time": "5시간전"
+            },
+            {
+                "title": "처음 본 여성 2명 성추행에 갈비 절도까지...20대 징역형",
+                "link": "https://n.news.naver.com/article/666/0000088609?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/666/2025/11/23/88609.jpg?type=nf70_70",
                 "time": "4시간전"
             },
             {
-                "title": "정청래 \"초라·비루한 윤석열에게 누가 마음을...여당답게 국정 이끌겠다\"",
-                "link": "https://n.news.naver.com/article/666/0000088616?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/666/2025/11/23/88616.jpg?type=nf70_70",
-                "time": "1시간전"
+                "title": "경기도지사 후보군 수면 위로...與 ‘출마 러시’, 野는 ‘인물난’",
+                "link": "https://n.news.naver.com/article/666/0000088618?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/666/2025/11/23/88618.jpg?type=nf70_70",
+                "time": "2시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1103,34 +1103,34 @@
         "press_name": "머니S",
         "articles": [
             {
-                "title": "G20 남아공 정상회의 선언문 \"2028년 G20 개최지는 한국\"",
-                "link": "https://n.news.naver.com/article/417/0001114834?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/417/2025/11/23/1114834.jpg?type=nf70_70",
-                "time": "3시간전"
+                "title": "[momo톡] 자동차도 추위 타는 겨울, 안전 운전하려면",
+                "link": "https://n.news.naver.com/article/417/0001114806?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/417/2025/11/23/1114806.jpg?type=nf70_70",
+                "time": "11시간전"
             },
             {
                 "title": "강남 옆 동네 집값 '고공행진'… 광진구 10% 넘게 올라 '상승률 1위'",
                 "link": "https://n.news.naver.com/article/417/0001114804?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/417/2025/11/23/1114804.jpg?type=nf70_70",
-                "time": "13시간전"
+                "time": "14시간전"
+            },
+            {
+                "title": "'가볍게 한끼' 칼국수가 한 그릇에 만원… 10년 새 50%나 올랐다",
+                "link": "https://n.news.naver.com/article/417/0001114838?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/417/2025/11/23/1114838.jpg?type=nf70_70",
+                "time": "3시간전"
             },
             {
                 "title": "북한 포탄 170발, 불타는 연평도… 전쟁은 끝나지 않았다 [오늘의역사]",
                 "link": "https://n.news.naver.com/article/417/0001114802?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/417/2025/11/23/1114802.jpg?type=nf70_70",
-                "time": "13시간전"
+                "time": "14시간전"
             },
             {
                 "title": "\"한라산도 중국인에 당했다\"… 탐방로에서 대변테러 '경악'",
                 "link": "https://n.news.naver.com/article/417/0001114833?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/417/2025/11/23/1114833.jpg?type=nf70_70",
-                "time": "3시간전"
-            },
-            {
-                "title": "감옥으로 여성 불러 '비밀의 방'서 성매매… 황제 수감생활 태국 '발칵'",
-                "link": "https://n.news.naver.com/article/417/0001114817?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/417/2025/11/23/1114817.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "4시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1139,34 +1139,34 @@
         "press_name": "문화일보",
         "articles": [
             {
-                "title": "[속보]이틀 연속 ‘의성 산불’ 방화였다…경찰 40대 용의자 검거",
-                "link": "https://n.news.naver.com/article/021/0002751998?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/021/2025/11/23/2751998.jpg?type=nf70_70",
-                "time": "2시간전"
+                "title": "“기호 1번 이씨는 나라 팔아먹어” 단톡방에 투표지 올린 50대…벌금 60만원",
+                "link": "https://n.news.naver.com/article/021/0002752011?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/021/2025/11/23/2752011.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "청소부 4남매 엄마, 밤엔 성인방송으로 하루 최대 300만원 버는 사연 화제",
                 "link": "https://n.news.naver.com/article/021/0002751967?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/021/2025/11/23/2751967.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "5시간전"
             },
             {
                 "title": "한 달 변비로 뱃속에 무려 9kg 대변 덩어리 쌓인 40대 끝내 사망",
                 "link": "https://n.news.naver.com/article/021/0002751995?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/021/2025/11/23/2751995.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             },
             {
                 "title": "수업중 포르노 대사·신음 내는 초등생들…“아동학대 무서워 야단도 못쳐”",
                 "link": "https://n.news.naver.com/article/021/0002751935?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/021/2025/11/23/2751935.jpg?type=nf70_70",
-                "time": "9시간전"
+                "time": "10시간전"
             },
             {
                 "title": "미모로 주목받던 20대 女교도관, 수감자들과 수차례 성관계에 마약 반입까지",
                 "link": "https://n.news.naver.com/article/021/0002751952?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/021/2025/11/23/2751952.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1178,31 +1178,31 @@
                 "title": "칼국수→삼계탕→김밥→김치찌개→냉면→비빔밥 순으로 많이 올랐다",
                 "link": "https://n.news.naver.com/article/022/0004084678?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/022/2025/11/23/4084678.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             },
             {
                 "title": "부활 '4대 보컬' 김재희, 2000억대 '폰지사기' 가담 혐의로 검찰 송치",
                 "link": "https://n.news.naver.com/article/022/0004084702?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/022/2025/11/23/4084702.jpg?type=nf70_70",
-                "time": "5시간전"
-            },
-            {
-                "title": "[속보] 11월 서울 아파트 매매가 상승률 5년2개월만에 최고치",
-                "link": "https://n.news.naver.com/article/022/0004084730?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/022/2025/11/23/4084730.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "6시간전"
             },
             {
                 "title": "주가 6만원선 붕괴하고 사용자 이탈 늘자…비상 걸린 이 회사 “다시 원상 복귀”",
                 "link": "https://n.news.naver.com/article/022/0004084669?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/022/2025/11/23/4084669.jpg?type=nf70_70",
-                "time": "9시간전"
+                "time": "10시간전"
+            },
+            {
+                "title": "[속보] 강훈식, 양양 ‘계엄령 공무원’에 “감사·수사로 엄정 조치”",
+                "link": "https://n.news.naver.com/article/022/0004084745?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/022/2025/11/23/4084745.jpg?type=nf70_70",
+                "time": "27분전"
             },
             {
                 "title": "“5억→2억” 실제 사례 속출…와르르 무너진 서민들",
                 "link": "https://n.news.naver.com/article/022/0004084651?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/022/2025/11/23/4084651.jpg?type=nf70_70",
-                "time": "12시간전"
+                "time": "13시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1214,31 +1214,31 @@
                 "title": "눈 마주치고 인사하는 버추얼 아이돌…플레이브, ‘송출사고’ 딛고 고척돔 달궜다",
                 "link": "https://n.news.naver.com/article/138/0002210371?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/138/2025/11/23/2210371.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "5시간전"
             },
             {
                 "title": "환율에 발목잡힌 증시… 12월 '산타랠리' 기대 꺾이나 [증시 레이더]",
                 "link": "https://n.news.naver.com/article/138/0002210369?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/138/2025/11/23/2210369.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "6시간전"
             },
             {
                 "title": "\"김 부장, 내 얘기일지도\"…현실 반영 웹툰, 재조명 받는 이유",
                 "link": "https://n.news.naver.com/article/138/0002210364?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/138/2025/11/23/2210364.jpg?type=nf70_70",
-                "time": "6시간전"
+                "time": "7시간전"
             },
             {
                 "title": "[반차장보고서] 삼성 P5·SK 용인 600조 투자, 전영현 유임…AI 메모리 2라운드 '스타트'",
                 "link": "https://n.news.naver.com/article/138/0002210356?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/138/2025/11/23/2210356.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             },
             {
                 "title": "롤러코스트 장세에 개미 투자자들 현기증… 12월 미 FOMC에 쏠리는 시선",
                 "link": "https://n.news.naver.com/article/138/0002210352?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/138/2025/11/23/2210352.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1250,31 +1250,31 @@
                 "title": "기름값 당분간 더 오른다...고환율·유류세 인상에 경고등",
                 "link": "https://n.news.naver.com/article/310/0000131541?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/310/2025/11/23/131541.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             },
             {
                 "title": "이름이 ‘쌍X’?…아동 인격권 보호 위한 법안 발의",
                 "link": "https://n.news.naver.com/article/310/0000131529?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/310/2025/11/22/131529.jpg?type=nf70_70",
-                "time": "18시간전"
+                "time": "19시간전"
+            },
+            {
+                "title": "김혜경 “대통령, 키세스단이 쉬엄쉬엄하라 안 뽑았다더라”",
+                "link": "https://n.news.naver.com/article/310/0000131540?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/310/2025/11/23/131540.jpg?type=nf70_70",
+                "time": "4시간전"
             },
             {
                 "title": "“차 사고 여성이 더 위험” 미, 여성형 충돌시험 인형 첫 도입",
                 "link": "https://n.news.naver.com/article/310/0000131539?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/310/2025/11/23/131539.jpg?type=nf70_70",
-                "time": "15시간전"
+                "time": "16시간전"
             },
             {
                 "title": "실적 역대급, 기부는 ‘찔끔’...한전·삼성전자·LG화학 ‘급감’",
                 "link": "https://n.news.naver.com/article/310/0000131536?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/310/2025/11/23/131536.jpg?type=nf70_70",
                 "time": "17시간전"
-            },
-            {
-                "title": "김혜경 “대통령, 키세스단이 쉬엄쉬엄하라 안 뽑았다더라”",
-                "link": "https://n.news.naver.com/article/310/0000131540?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/310/2025/11/23/131540.jpg?type=nf70_70",
-                "time": "3시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1283,34 +1283,34 @@
         "press_name": "디지털타임스",
         "articles": [
             {
-                "title": "金총리 “李대통령과 ‘다음 노벨평화상 한국민 받으면 좋겠다’ 얘기”",
-                "link": "https://n.news.naver.com/article/029/0002995038?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/029/2025/11/23/2995038.jpg?type=nf70_70",
-                "time": "4시간전"
-            },
-            {
                 "title": "D램 재고기간 ‘3.3주→2.7주’로 뚝…“메모리 줄 서서 사야 할 판”",
                 "link": "https://n.news.naver.com/article/029/0002995082?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/029/2025/11/23/2995082.jpg?type=nf70_70",
-                "time": "1시간전"
-            },
-            {
-                "title": "[속보] ‘검찰청 폐지’ 앞둔 검사들, 올해만 161명 옷 벗었다…10년새 최고치",
-                "link": "https://n.news.naver.com/article/029/0002995048?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/029/2025/11/23/2995048.jpg?type=nf70_70",
-                "time": "3시간전"
-            },
-            {
-                "title": "“토할 것 같은 행동하는 중국인들”…한라산 등산로에 ‘대변 테러’",
-                "link": "https://n.news.naver.com/article/029/0002995071?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/029/2025/11/23/2995071.jpg?type=nf70_70",
                 "time": "2시간전"
             },
             {
                 "title": "이낙연계 “노만석 ‘입’은 현역, 한동훈도 주목돼…‘대장동 항소포기’ 안 끝나”",
                 "link": "https://n.news.naver.com/article/029/0002995031?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/029/2025/11/23/2995031.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "6시간전"
+            },
+            {
+                "title": "[속보] 조국, 사면복권 3개월여 만에 혁신당 대표 당선…찬성 98.6%",
+                "link": "https://n.news.naver.com/article/029/0002995091?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/029/2025/11/23/2995091.jpg?type=nf70_70",
+                "time": "2시간전"
+            },
+            {
+                "title": "“토할 것 같은 행동하는 중국인들”…한라산 등산로에 ‘대변 테러’",
+                "link": "https://n.news.naver.com/article/029/0002995071?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/029/2025/11/23/2995071.jpg?type=nf70_70",
+                "time": "3시간전"
+            },
+            {
+                "title": "[속보] ‘검찰청 폐지’ 앞둔 검사들, 올해만 161명 옷 벗었다…10년새 최고치",
+                "link": "https://n.news.naver.com/article/029/0002995048?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/029/2025/11/23/2995048.jpg?type=nf70_70",
+                "time": "4시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1324,34 +1324,34 @@
         "press_name": "매일신문",
         "articles": [
             {
-                "title": "전현희, 또 내란재판부 도입 주장…\"尹 두번째 석방 막아야\"",
-                "link": "https://n.news.naver.com/article/088/0000982761?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/088/2025/11/23/982761.jpg?type=nf70_70",
-                "time": "4시간전"
-            },
-            {
-                "title": "안성 골판지 제조공장 화재…60대 男 추정 1명 사망",
-                "link": "https://n.news.naver.com/article/088/0000982793?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/088/2025/11/23/982793.jpg?type=nf70_70",
-                "time": "2시간전"
-            },
-            {
                 "title": "올해만 검사 161명 사표냈다…특검 차출에 인력난",
                 "link": "https://n.news.naver.com/article/088/0000982788?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/088/2025/11/23/982788.jpg?type=nf70_70",
+                "time": "3시간전"
+            },
+            {
+                "title": "조국, 사면복권 3개월여 만에 혁신당 대표 당선…\"국민 뜻 나침반 삼겠다\"",
+                "link": "https://n.news.naver.com/article/088/0000982828?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/088/2025/11/23/982828.jpg?type=nf70_70",
                 "time": "2시간전"
+            },
+            {
+                "title": "록밴드 부활 출신 김재희, 2천억원대 투자범행 가담 혐의로 검찰에 송치",
+                "link": "https://n.news.naver.com/article/088/0000982847?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/088/2025/11/23/982847.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "'온몸 괴사' 부사관 아내 유족 \"매일 장모에 전화해 안심시켜…가족 못오게 해\"",
                 "link": "https://n.news.naver.com/article/088/0000982717?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/088/2025/11/22/982717.jpg?type=nf70_70",
-                "time": "23시간전"
+                "time": "1일전"
             },
             {
-                "title": "\"계엄령 시작, 빨간 속옷 입어라\" 7급 공무원…양양군 \"엄정 징계\"",
-                "link": "https://n.news.naver.com/article/088/0000982760?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/088/2025/11/23/982760.jpg?type=nf70_70",
-                "time": "4시간전"
+                "title": "[속보] \"남편이 신고\"…70대 母에 흉기 휘둘러 살해한 20대 아들, 도주 후 경찰에 붙잡혀",
+                "link": "https://n.news.naver.com/article/088/0000982872?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/088/2025/11/23/982872.jpg?type=nf70_70",
+                "time": "48분전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1360,34 +1360,34 @@
         "press_name": "MBN",
         "articles": [
             {
-                "title": "정청래 \"재판중계로 본 윤석열, 초라하고 비루해…누가 마음 열겠나\"",
-                "link": "https://n.news.naver.com/article/057/0001920558?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/057/2025/11/23/1920558.jpg?type=nf70_70",
+                "title": "조국, 혁신당 새 대표 당선...찬성 98.6%",
+                "link": "https://n.news.naver.com/article/057/0001920562?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/057/2025/11/23/1920562.jpg?type=nf70_70",
                 "time": "1시간전"
             },
             {
                 "title": "어머니 흉기로 살해하고 도주…20대 남성 긴급체포",
                 "link": "https://n.news.naver.com/article/057/0001920514?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/057/2025/11/23/1920514.jpg?type=nf70_70",
-                "time": "13시간전"
+                "time": "14시간전"
+            },
+            {
+                "title": "정청래 \"재판중계로 본 윤석열, 초라하고 비루해…누가 마음 열겠나\"",
+                "link": "https://n.news.naver.com/article/057/0001920558?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/057/2025/11/23/1920558.jpg?type=nf70_70",
+                "time": "2시간전"
             },
             {
                 "title": "부활 출신 가수 김재희 불구속 입건…2천억대 투자 사기 가담 혐의",
                 "link": "https://n.news.naver.com/article/057/0001920521?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/057/2025/11/23/1920521.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             },
             {
                 "title": "다카이치 SNS 글 '논란'…자국서도 \"경솔하다\" 지적",
                 "link": "https://n.news.naver.com/article/057/0001920555?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/057/2025/11/23/1920555.jpg?type=nf70_70",
-                "time": "1시간전"
-            },
-            {
-                "title": "[속보] 조국, 사면복권 3개월여 만에 혁신당 대표 당선",
-                "link": "https://n.news.naver.com/article/057/0001920559?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/057/2025/11/23/1920559.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "2시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1396,34 +1396,34 @@
         "press_name": "프레시안",
         "articles": [
             {
-                "title": "중 \"일본의 대만 개입은 침략 행위\"·\"멸망 이끌 것\"…'전랑 외교' 부활 조짐",
-                "link": "https://n.news.naver.com/article/002/0002415639?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/002/2025/11/23/2415639.jpg?type=nf70_70",
+                "title": "10.15대책 약발 안 받나…서울 아파트값 5년여 만에 최고치 상승",
+                "link": "https://n.news.naver.com/article/002/0002415642?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/002/2025/11/23/2415642.jpg?type=nf70_70",
                 "time": "1시간전"
-            },
-            {
-                "title": "정청래 '1인 1표제' 밀어붙이기에 친명 그룹서도 \"자화자찬 낯뜨거워\"",
-                "link": "https://n.news.naver.com/article/002/0002415622?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/002/2025/11/23/2415622.jpg?type=nf70_70",
-                "time": "5시간전"
             },
             {
                 "title": "더욱 고개 숙여 \"문송합니다\"…'AI 신드롬' 속 흔들리는 인문계, 어디로 가야 할까",
                 "link": "https://n.news.naver.com/article/002/0002415620?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/002/2025/11/23/2415620.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             },
             {
                 "title": "정청래, 尹 재판 영상 올리며 \"이런 자가 대통령이었다니 비루하고 처참\"",
                 "link": "https://n.news.naver.com/article/002/0002415614?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/002/2025/11/22/2415614.jpg?type=nf70_70",
-                "time": "22시간전"
+                "time": "23시간전"
+            },
+            {
+                "title": "정청래 '1인 1표제' 밀어붙이기에 친명 그룹서도 \"자화자찬 낯뜨거워\"",
+                "link": "https://n.news.naver.com/article/002/0002415622?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/002/2025/11/23/2415622.jpg?type=nf70_70",
+                "time": "6시간전"
             },
             {
                 "title": "송영길이 '옥중 번역' 한 책…이 문장만큼은 전적으로 채용한다[최재천의 책갈피]",
                 "link": "https://n.news.naver.com/article/002/0002415623?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/002/2025/11/23/2415623.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "6시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1432,34 +1432,34 @@
         "press_name": "kbc광주방송",
         "articles": [
             {
-                "title": "\"정답 2개 문항 있다\"...수능 국어, 이번엔 '지문 오류' 주장 제기",
-                "link": "https://n.news.naver.com/article/660/0000097566?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/660/2025/11/23/97566.jpg?type=nf70_70",
-                "time": "10시간전"
+                "title": "조국, 사면복권 3개월만 당대표 복귀...찬성 98.6%",
+                "link": "https://n.news.naver.com/article/660/0000097593?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/660/2025/11/23/97593.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
-                "title": "[영상] \"광주 광천동 재개발 하이엔드 포기 없다...내년 11월 착공 가능\"",
-                "link": "https://n.news.naver.com/article/660/0000097591?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/660/2025/11/23/97591.jpg?type=nf70_70",
+                "title": "\"속도보다 생명\"...택배노조, 새벽배송·과로사 해결 촉구",
+                "link": "https://n.news.naver.com/article/660/0000097594?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/660/2025/11/23/97594.jpg?type=nf70_70",
                 "time": "1시간전"
             },
             {
                 "title": "특정 색 속옷 강요 등 '계엄령 놀이' 7급 공무원...양양군 공식 사과",
                 "link": "https://n.news.naver.com/article/660/0000097585?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/660/2025/11/23/97585.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
             },
             {
                 "title": "이번엔 한라산에 '대변 테러'...\"中 관광객, 어떻게 안 되나요?\"",
                 "link": "https://n.news.naver.com/article/660/0000097590?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/660/2025/11/23/97590.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "2시간전"
             },
             {
-                "title": "조국, 사면복권 3개월만 당대표 복귀...찬성 98.6%",
-                "link": "https://n.news.naver.com/article/660/0000097593?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/660/2025/11/23/97593.jpg?type=nf70_70",
-                "time": "1시간전"
+                "title": "[영상] \"광주 광천동 재개발 하이엔드 포기 없다...내년 11월 착공 가능\"",
+                "link": "https://n.news.naver.com/article/660/0000097591?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/660/2025/11/23/97591.jpg?type=nf70_70",
+                "time": "2시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1468,34 +1468,34 @@
         "press_name": "블로터",
         "articles": [
             {
-                "title": "신한은행, 글로벌 순이익 비중 20% 돌파 눈앞…리딩뱅크 굳히기",
-                "link": "https://n.news.naver.com/article/293/0000075420?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/293/2025/11/23/75420.jpg?type=nf70_70",
-                "time": "10시간전"
+                "title": "'중금리가 더 싸도 늘지 않는 이유'…저축은행 대출 이상 신호",
+                "link": "https://n.news.naver.com/article/293/0000075419?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/293/2025/11/22/75419.jpg?type=nf70_70",
+                "time": "23시간전"
             },
             {
                 "title": "호반건설 \"시공사 PF 보증은 업계 관행...제도 정비 필요\"",
                 "link": "https://n.news.naver.com/article/293/0000075421?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/293/2025/11/23/75421.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             },
             {
                 "title": "테슬라, '도어 핸들' 안전 논란 지속…미국서 피소",
                 "link": "https://n.news.naver.com/article/293/0000075418?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/293/2025/11/22/75418.jpg?type=nf70_70",
-                "time": "23시간전"
+                "time": "1일전"
             },
             {
                 "title": "[콘텐츠 인사이트] 국내 'OTT 번들' 시대 개막…티빙·웨이브·디즈니+의 계산법",
                 "link": "https://n.news.naver.com/article/293/0000075422?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/293/2025/11/23/75422.jpg?type=nf70_70",
-                "time": "6시간전"
+                "time": "7시간전"
             },
             {
                 "title": "[홈플러스 M&A] MBK \"국민연금 RCPS 이익 침해하지 않았다\"",
                 "link": "https://n.news.naver.com/article/293/0000075424?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/293/2025/11/23/75424.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "6시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1524,22 +1524,22 @@
         "press_name": "아이뉴스24",
         "articles": [
             {
-                "title": "'불법 대부업' 의혹 명륜당 대표 결국 검찰 송치 (종합)",
-                "link": "https://n.news.naver.com/article/031/0000983190?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/031/2025/11/23/983190.jpg?type=nf70_70",
+                "title": "제네시스 출범 10년⋯글로벌 럭셔리카 시장 정조준",
+                "link": "https://n.news.naver.com/article/031/0000983200?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/031/2025/11/23/983200.jpg?type=nf70_70",
                 "time": "2시간전"
-            },
-            {
-                "title": "1년 새 계열사 20여 개 축소⋯카카오 '군살 빼기' 속도",
-                "link": "https://n.news.naver.com/article/031/0000983156?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/031/2025/11/23/983156.jpg?type=nf70_70",
-                "time": "9시간전"
             },
             {
                 "title": "'계엄령 놀이'⋯환경미화원 괴롭힌 양양군 7급 공무원",
                 "link": "https://n.news.naver.com/article/031/0000983193?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/031/2025/11/23/983193.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
+            },
+            {
+                "title": "카톡, 12월엔 익숙해진다⋯'친구탭' 원상복구",
+                "link": "https://n.news.naver.com/article/031/0000983211?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/031/2025/11/23/983211.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "\"살려주세요\"⋯계양산 실종자 \"알고 보니 무사 귀가\"",
@@ -1548,10 +1548,10 @@
                 "time": "1시간전"
             },
             {
-                "title": "[속보]조국, 사면복권 3개월 만에 당대표 복귀...찬성 98.6%",
-                "link": "https://n.news.naver.com/article/031/0000983206?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/031/2025/11/23/983206.jpg?type=nf70_70",
-                "time": "59분전"
+                "title": "[속보] 강훈식, 양양군 '계엄령 놀이' 공무원에 엄정 조치",
+                "link": "https://n.news.naver.com/article/031/0000983212?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/031/2025/11/23/983212.jpg?type=nf70_70",
+                "time": "1시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1563,31 +1563,31 @@
                 "title": "[주말 PICk!] 사투리가 귀에 ‘쏙쏙’…맛깔나는 언어가 “살아 있네”",
                 "link": "https://n.news.naver.com/article/662/0000082763?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/662/2025/11/23/82763.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
             },
             {
                 "title": "단감 가격 떨어져도 보상… 창원시, 농업수입안정보험 지원",
                 "link": "https://n.news.naver.com/article/662/0000082766?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/662/2025/11/23/82766.jpg?type=nf70_70",
-                "time": "2시간전"
-            },
-            {
-                "title": "환불도 배송도 안해줘… 온라인 중고 스마트폰 거래 ‘주의보’",
-                "link": "https://n.news.naver.com/article/662/0000082767?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/662/2025/11/23/82767.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "3시간전"
             },
             {
                 "title": "강원 양양군 잔불 정리 중…“민가 피해 없는 것으로 파악돼”",
                 "link": "https://n.news.naver.com/article/662/0000082762?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/662/2025/11/23/82762.jpg?type=nf70_70",
-                "time": "6시간전"
+                "time": "7시간전"
+            },
+            {
+                "title": "환불도 배송도 안해줘… 온라인 중고 스마트폰 거래 ‘주의보’",
+                "link": "https://n.news.naver.com/article/662/0000082767?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/662/2025/11/23/82767.jpg?type=nf70_70",
+                "time": "2시간전"
             },
             {
                 "title": "결혼식 10개월 전 예약 취소…예식장 계약금 돌려 받을 수 있나?",
                 "link": "https://n.news.naver.com/article/662/0000082765?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/662/2025/11/23/82765.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1602,28 +1602,28 @@
                 "time": "1일전"
             },
             {
+                "title": "하나금융이 ‘어린이집 100개소’ 만든 까닭은?",
+                "link": "https://n.news.naver.com/article/262/0000018933?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/262/2025/11/23/18933.jpg?type=nf70_70",
+                "time": "9시간전"
+            },
+            {
                 "title": "“여당 폭거에 자유민주주의 체제 붕괴, 정치 최전선 무너져”",
                 "link": "https://n.news.naver.com/article/262/0000018930?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/262/2025/11/22/18930.jpg?type=nf70_70",
                 "time": "1일전"
             },
             {
-                "title": "하나금융이 ‘어린이집 100개소’ 만든 까닭은?",
-                "link": "https://n.news.naver.com/article/262/0000018933?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/262/2025/11/23/18933.jpg?type=nf70_70",
-                "time": "8시간전"
-            },
-            {
                 "title": "[르포] 거리의 반중은 어쩌다 혐오로 번졌나",
                 "link": "https://n.news.naver.com/article/262/0000018934?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/262/2025/11/23/18934.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             },
             {
                 "title": "“자신들은 이미 챙기고, 국민은 실거주하라니 ‘내로남불’”",
                 "link": "https://n.news.naver.com/article/262/0000018935?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/262/2025/11/23/18935.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1638,28 +1638,28 @@
                 "time": "1일전"
             },
             {
+                "title": "원화 가치 ‘곤두박질’…비상계엄 넘어 금융위기 수준 근접",
+                "link": "https://n.news.naver.com/article/024/0000101524?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/024/2025/11/23/101524.jpg?type=nf70_70",
+                "time": "4시간전"
+            },
+            {
                 "title": "‘쉰내 나는 인스타’ 조롱 듣더니 결국…카카오톡 친구탭 3개월 만에 원상복구",
                 "link": "https://n.news.naver.com/article/024/0000101527?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/024/2025/11/23/101527.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "2시간전"
             },
             {
                 "title": "“비트코인 15억 간다” 공언한 ‘부자 아빠’…정작 본인은 하락장서 매도",
                 "link": "https://n.news.naver.com/article/024/0000101528?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/024/2025/11/23/101528.jpg?type=nf70_70",
-                "time": "1시간전"
-            },
-            {
-                "title": "“중고차만 있나요?”...이제 중고 노트북도 나왔다",
-                "link": "https://n.news.naver.com/article/024/0000101521?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/024/2025/11/23/101521.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "2시간전"
             },
             {
                 "title": "“도저히 아파트는 안 되겠어”...요즘 뜨는 부동산 뭐길래 [김경민의 부동산NOW]",
                 "link": "https://n.news.naver.com/article/024/0000101517?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/024/2025/11/23/101517.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1667,12 +1667,6 @@
     {
         "press_name": "시사IN",
         "articles": [
-            {
-                "title": "“피고인, 부하에게 책임 전가 아니죠?” 윤석열에게 일침한 증인 홍장원",
-                "link": "https://n.news.naver.com/article/308/0000037501?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/308/2025/11/21/37501.jpg?type=nf70_70",
-                "time": "1일전"
-            },
             {
                 "title": "막말이 ‘전투력’? 지방의회의 어떤 현상 [전국 인사이드]",
                 "link": "https://n.news.naver.com/article/308/0000037503?ntype=RANKING",
@@ -1683,7 +1677,7 @@
                 "title": "다시 겨울, 식물 성적표를 받는 계절 [임보 일기]",
                 "link": "https://n.news.naver.com/article/308/0000037505?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/308/2025/11/23/37505.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             },
             {
                 "title": "연산군, 광해군, 고종과 윤석열의 공통점 [독서일기]",
@@ -1695,7 +1689,7 @@
                 "title": "세기의 이혼이 남긴 위자료 현실화? [세상에 이런 법이]",
                 "link": "https://n.news.naver.com/article/308/0000037504?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/308/2025/11/23/37504.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1704,34 +1698,34 @@
         "press_name": "대구MBC",
         "articles": [
             {
-                "title": "[약손 ] 무너지면 치명적이다! 고관절 질환 ④대퇴골두 골괴사의 진단 기준",
-                "link": "https://n.news.naver.com/article/657/0000045299?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/657/2025/11/23/45299.jpg?type=nf70_70",
-                "time": "7시간전"
-            },
-            {
                 "title": "대구 주택 매매시장 소비심리지수, 2개월 연속 상승",
                 "link": "https://n.news.naver.com/article/657/0000045290?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/657/2025/11/23/45290.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
+            },
+            {
+                "title": "[백투더투데이] “분양만 받으면 대박인데···” 1980년~2000년대 대구의 아파트",
+                "link": "https://n.news.naver.com/article/657/0000045298?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/657/2025/11/23/45298.jpg?type=nf70_70",
+                "time": "8시간전"
             },
             {
                 "title": "경북 보건환경연구원 \"팩·마스크팩 안전성 검사 결과 '안전'\"",
                 "link": "https://n.news.naver.com/article/657/0000045289?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/657/2025/11/23/45289.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             },
             {
                 "title": "성주 주택 화재 3천 6백만 원 재산 피해",
                 "link": "https://n.news.naver.com/article/657/0000045301?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/657/2025/11/23/45301.jpg?type=nf70_70",
-                "time": "6시간전"
+                "time": "7시간전"
             },
             {
                 "title": "[심층] \"상위 0.1% 유튜버 연봉 50억\"⋯'슈퍼챗' 피한 '개인 계좌' 탈세 취약",
                 "link": "https://n.news.naver.com/article/657/0000045297?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/657/2025/11/23/45297.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1740,34 +1734,34 @@
         "press_name": "TV조선",
         "articles": [
             {
-                "title": "李 대통령 \"통일 노하우 알려달라\"…獨 총리 \"한반도 주변 궁금\"",
-                "link": "https://n.news.naver.com/article/448/0000572399?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/448/2025/11/23/572399.jpg?type=nf70_70",
-                "time": "6시간전"
-            },
-            {
-                "title": "부활 출신 가수 김재희 '2000억대 투자사기 가담' 불구속 입건",
-                "link": "https://n.news.naver.com/article/448/0000572443?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/448/2025/11/23/572443.jpg?type=nf70_70",
-                "time": "2시간전"
-            },
-            {
-                "title": "올해 검사 161명 퇴직…10년 새 최고치",
-                "link": "https://n.news.naver.com/article/448/0000572433?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/448/2025/11/23/572433.jpg?type=nf70_70",
-                "time": "3시간전"
+                "title": "조국, 혁신당 대표로 11개월 만에 복귀…찬성률 98.6%",
+                "link": "https://n.news.naver.com/article/448/0000572473?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/448/2025/11/23/572473.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "金여사 \"李 '키세스단'이 쉬엄쉬엄하는 대통령 뽑은 것 아니라며 기내서도 잠 아껴\"",
                 "link": "https://n.news.naver.com/article/448/0000572444?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/448/2025/11/23/572444.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
+            },
+            {
+                "title": "부활 출신 가수 김재희 '2000억대 투자사기 가담' 불구속 입건",
+                "link": "https://n.news.naver.com/article/448/0000572443?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/448/2025/11/23/572443.jpg?type=nf70_70",
+                "time": "3시간전"
+            },
+            {
+                "title": "20대 아들이 70대 모친 흉기로 살해 후 도주…20분 만에 체포",
+                "link": "https://n.news.naver.com/article/448/0000572471?ntype=RANKING",
+                "img_src": null,
+                "time": "1시간전"
             },
             {
                 "title": "김민석 \"다음 노벨평화상은 한국 국민이 받았으면…난 김대중 사람\"",
                 "link": "https://n.news.naver.com/article/448/0000572446?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/448/2025/11/23/572446.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "2시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1776,16 +1770,16 @@
         "press_name": "강원도민일보",
         "articles": [
             {
-                "title": "김민석 총리 \"다음 노벨 평화상은 대한민국 국민이 받았으면 좋겠다'\"",
-                "link": "https://n.news.naver.com/article/654/0000152815?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/654/2025/11/23/152815.jpg?type=nf70_70",
-                "time": "3시간전"
+                "title": "양양 공무원 괴롭힘 논란… 대통령실 \"엄정 조치 지시\"",
+                "link": "https://n.news.naver.com/article/654/0000152856?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/654/2025/11/23/152856.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
-                "title": "[속보] 송언석 \"이재명 정권 공직자들, 국민 업신여기는 언행 심각한 수준\"",
-                "link": "https://n.news.naver.com/article/654/0000152835?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/654/2025/11/23/152835.jpg?type=nf70_70",
-                "time": "2시간전"
+                "title": "손흥민 \"모든 건 내 책임…내년엔 우승 컨디션으로 돌아오겠다\"",
+                "link": "https://n.news.naver.com/article/654/0000152854?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/654/2025/11/23/152854.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "겨울 별미 돌아왔다…동해안 '대방어' 시즌 개막",
@@ -1794,16 +1788,16 @@
                 "time": "4시간전"
             },
             {
-                "title": "부활 출신 가수 김재희, 2000억원대 투자 사기 가담 혐의로 송치",
-                "link": "https://n.news.naver.com/article/654/0000152790?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/654/2025/11/23/152790.jpg?type=nf70_70",
-                "time": "6시간전"
-            },
-            {
                 "title": "[속보] 조국, 조국혁신당 새 대표 당선…\"거대 양당이 가지 않은 신항로 개척하겠다\"",
                 "link": "https://n.news.naver.com/article/654/0000152853?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/654/2025/11/23/152853.jpg?type=nf70_70",
-                "time": "41분전"
+                "time": "1시간전"
+            },
+            {
+                "title": "부활 출신 가수 김재희, 2000억원대 투자 사기 가담 혐의로 송치",
+                "link": "https://n.news.naver.com/article/654/0000152790?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/654/2025/11/23/152790.jpg?type=nf70_70",
+                "time": "7시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1817,34 +1811,34 @@
         "press_name": "전자신문",
         "articles": [
             {
-                "title": "“BMW 장인, 퇴사합니다!”...X3 차량 3만대 만든 로봇, 명예 퇴진",
-                "link": "https://n.news.naver.com/article/030/0003372915?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/030/2025/11/22/3372915.jpg?type=nf70_70",
-                "time": "18시간전"
-            },
-            {
-                "title": "살짝 박아도 8주 입원?…車사고 나이롱 환자 솎아낸다",
-                "link": "https://n.news.naver.com/article/030/0003373001?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/030/2025/11/23/3373001.jpg?type=nf70_70",
+                "title": "HBM4 재설계?…마이크론 “예정대로 출시, 내년 물량 완판”",
+                "link": "https://n.news.naver.com/article/030/0003373011?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/030/2025/11/23/3373011.jpg?type=nf70_70",
                 "time": "3시간전"
             },
             {
-                "title": "'커피' 마시면 요산 배출 촉진…바람만 스쳐도 아픈 '통풍' 위험 낮춘다",
-                "link": "https://n.news.naver.com/article/030/0003372910?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/030/2025/11/22/3372910.jpg?type=nf70_70",
-                "time": "23시간전"
+                "title": "“BMW 장인, 퇴사합니다!”...X3 차량 3만대 만든 로봇, 명예 퇴진",
+                "link": "https://n.news.naver.com/article/030/0003372915?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/030/2025/11/22/3372915.jpg?type=nf70_70",
+                "time": "19시간전"
+            },
+            {
+                "title": "내년 전기차 큰 장 선다…韓 사상 최대 신차 '30종' 격돌",
+                "link": "https://n.news.naver.com/article/030/0003373019?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/030/2025/11/23/3373019.jpg?type=nf70_70",
+                "time": "2시간전"
             },
             {
                 "title": "“비트코인 안 팔아” 센척하던 부자아빠…가격 떨어지자 33억어치 팔아치워",
                 "link": "https://n.news.naver.com/article/030/0003372960?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/030/2025/11/23/3372960.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "6시간전"
             },
             {
                 "title": "'누누티비' 운영자, 징역 4년6개월 판결 불복…상고 제기",
                 "link": "https://n.news.naver.com/article/030/0003372918?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/030/2025/11/23/3372918.jpg?type=nf70_70",
-                "time": "15시간전"
+                "time": "16시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1853,34 +1847,34 @@
         "press_name": "헬스조선",
         "articles": [
             {
-                "title": "“해열제 먹었는데 열이 안 떨어져요”… 또 먹어도 되는 시간은?",
-                "link": "https://n.news.naver.com/article/346/0000100747?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/346/2025/11/23/100747.jpg?type=nf70_70",
-                "time": "8시간전"
+                "title": "“어릴 때 백혈병 앓았다고 결혼 반대”… 예비 신부의 사연, 무슨 일?",
+                "link": "https://n.news.naver.com/article/346/0000100758?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/346/2025/11/23/100758.jpg?type=nf70_70",
+                "time": "1시간전"
+            },
+            {
+                "title": "“백신 맞았는데 독감 걸렸다”… ‘물백신’ 논란, 어떻게 된 일?",
+                "link": "https://n.news.naver.com/article/346/0000100756?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/346/2025/11/23/100756.jpg?type=nf70_70",
+                "time": "2시간전"
             },
             {
                 "title": "혈당 높은 사람, 간식 뭐 먹을지 고민이라면… 7가지 추천",
                 "link": "https://n.news.naver.com/article/346/0000100754?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/346/2025/11/23/100754.jpg?type=nf70_70",
-                "time": "3시간전"
-            },
-            {
-                "title": "일어날 때 유독 찌릿한 허리 통증, 디스크 아니라던데… 왜 아프지?",
-                "link": "https://n.news.naver.com/article/346/0000100745?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/346/2025/11/23/100745.jpg?type=nf70_70",
-                "time": "9시간전"
+                "time": "4시간전"
             },
             {
                 "title": "“약 없이도 콜레스테롤 낮출 수 있어” ‘이것’ 먹으면 된다던데… 뭐지?",
                 "link": "https://n.news.naver.com/article/346/0000100746?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/346/2025/11/23/100746.jpg?type=nf70_70",
-                "time": "9시간전"
+                "time": "10시간전"
             },
             {
                 "title": "“우유인 줄 알고 ‘이것’마셨다가” 18개월 아기, 심장마비까지… 대체 무슨 일?",
                 "link": "https://n.news.naver.com/article/346/0000100737?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/346/2025/11/22/100737.jpg?type=nf70_70",
-                "time": "18시간전"
+                "time": "19시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1889,34 +1883,34 @@
         "press_name": "주간조선",
         "articles": [
             {
-                "title": "\"전공의는 복귀했는데\"...병원은 지금 더 어수선하다",
-                "link": "https://n.news.naver.com/article/053/0000053728?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/053/2025/11/23/53728.jpg?type=nf70_70",
-                "time": "11시간전"
-            },
-            {
-                "title": "\"검사가 이렇게 많이 그만둔 적이 있었나\"...10년 만의 최다 퇴직, 왜?",
-                "link": "https://n.news.naver.com/article/053/0000053739?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/053/2025/11/23/53739.jpg?type=nf70_70",
-                "time": "59분전"
+                "title": "\"25만달러 간다!\"던 '부자 아빠', 왜 비트코인 팔았나",
+                "link": "https://n.news.naver.com/article/053/0000053723?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/053/2025/11/22/53723.jpg?type=nf70_70",
+                "time": "19시간전"
             },
             {
                 "title": "과일만 먹다간 혈당 롤러코스터...중년 간식은 '짝'이 필요하다",
                 "link": "https://n.news.naver.com/article/053/0000053725?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/053/2025/11/23/53725.jpg?type=nf70_70",
-                "time": "17시간전"
+                "time": "18시간전"
             },
             {
-                "title": "\"25만달러 간다!\"던 '부자 아빠', 왜 비트코인 팔았나",
-                "link": "https://n.news.naver.com/article/053/0000053723?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/053/2025/11/22/53723.jpg?type=nf70_70",
-                "time": "18시간전"
+                "title": "계양산 '살려달라' 신고...대규모 수색했지만 신고자는 이미 집에",
+                "link": "https://n.news.naver.com/article/053/0000053742?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/053/2025/11/23/53742.jpg?type=nf70_70",
+                "time": "1시간전"
+            },
+            {
+                "title": "\"검사가 이렇게 많이 그만둔 적이 있었나\"...10년 만의 최다 퇴직, 왜?",
+                "link": "https://n.news.naver.com/article/053/0000053739?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/053/2025/11/23/53739.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "김건희 다녀간 곤녕합 '옥호루'...사실은 이름부터 틀렸다?",
                 "link": "https://n.news.naver.com/article/053/0000053731?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/053/2025/11/23/53731.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1925,10 +1919,16 @@
         "press_name": "대전일보",
         "articles": [
             {
-                "title": "김민석 \"김대중 이어 대한민국 국민이 노벨평화상 받았으면 했다\"",
-                "link": "https://n.news.naver.com/article/656/0000156562?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/656/2025/11/23/156562.jpg?type=nf70_70",
+                "title": "[속보]  조국, 조국혁신당 대표 선출… \"새로운 항로 개척할것\"",
+                "link": "https://n.news.naver.com/article/656/0000156580?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/656/2025/11/23/156580.jpg?type=nf70_70",
                 "time": "2시간전"
+            },
+            {
+                "title": "美ABC방송 \"'조지아 구금 사태' 韓엔지니어 50명 미국 재입국\"",
+                "link": "https://n.news.naver.com/article/656/0000156568?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/656/2025/11/23/156568.jpg?type=nf70_70",
+                "time": "3시간전"
             },
             {
                 "title": "정신건강 문제로 응급실 찾은 10-24세 5년간 2배 가까이 증가",
@@ -1943,16 +1943,10 @@
                 "time": "3시간전"
             },
             {
-                "title": "대전 관저동서 주행 중인 통근버스 '펑'…40여 명 대피",
-                "link": "https://n.news.naver.com/article/656/0000156534?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/656/2025/11/23/156534.jpg?type=nf70_70",
-                "time": "4시간전"
-            },
-            {
                 "title": "나경원 \"與, 1년 내내 계엄팔이·내란몰이 우려먹어\"",
                 "link": "https://n.news.naver.com/article/656/0000156577?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/656/2025/11/23/156577.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "2시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -1966,15 +1960,21 @@
         "press_name": "데일리안",
         "articles": [
             {
-                "title": "베트남 홍수 사망, 90명 넘어…\"피해 더 커질 듯\"",
-                "link": "https://n.news.naver.com/article/119/0003028520?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/119/2025/11/23/3028520.jpg?type=nf70_70",
-                "time": "1시간전"
-            },
-            {
                 "title": "\"男고객이 음란하게...\" 주장했다가 오히려 처벌받게 된 女배달원",
                 "link": "https://n.news.naver.com/article/119/0003028517?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/119/2025/11/23/3028517.jpg?type=nf70_70",
+                "time": "3시간전"
+            },
+            {
+                "title": "베트남 홍수 사망, 90명 넘어…\"피해 더 커질 듯\"",
+                "link": "https://n.news.naver.com/article/119/0003028520?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/119/2025/11/23/3028520.jpg?type=nf70_70",
+                "time": "2시간전"
+            },
+            {
+                "title": "\"누가 맞을래\" 7급 공무원이 환경미화원들 괴롭혀…가혹한 '계엄령 놀이'",
+                "link": "https://n.news.naver.com/article/119/0003028519?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/119/2025/11/23/3028519.jpg?type=nf70_70",
                 "time": "2시간전"
             },
             {
@@ -1984,16 +1984,10 @@
                 "time": "20시간전"
             },
             {
-                "title": "[속보] 찬성 98.6%…단독 입후보 조국, 혁신당 당대표 선출",
-                "link": "https://n.news.naver.com/article/119/0003028525?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/119/2025/11/23/3028525.jpg?type=nf70_70",
-                "time": "1시간전"
-            },
-            {
-                "title": "\"누가 맞을래\" 7급 공무원이 환경미화원들 괴롭혀…가혹한 '계엄령 놀이'",
-                "link": "https://n.news.naver.com/article/119/0003028519?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/119/2025/11/23/3028519.jpg?type=nf70_70",
-                "time": "1시간전"
+                "title": "\"교도소에서 팁도 줬다\" 女모델들 불러 성매매까지…거물급 수감자 전용구역 발각",
+                "link": "https://n.news.naver.com/article/119/0003028524?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/119/2025/11/23/3028524.jpg?type=nf70_70",
+                "time": "2시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2011,25 +2005,25 @@
                 "title": "강화도 마니산 참성단은 한반도 운수 열쇠 쥔 명당",
                 "link": "https://n.news.naver.com/article/037/0000037288?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/037/2025/11/23/37288.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             },
             {
                 "title": "첫 삽도 못 뜬 GTX-C 노선… 교통지옥에 옥정신도시 주민들 분통",
                 "link": "https://n.news.naver.com/article/037/0000037286?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/037/2025/11/23/37286.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             },
             {
                 "title": "젠슨 황이 ‘깐부 회동’ 때 ‘하쿠슈 25년’ 선물한 뜻",
                 "link": "https://n.news.naver.com/article/037/0000037287?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/037/2025/11/23/37287.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             },
             {
                 "title": "돈이 좋아서 ‘돈 안 쓰는’ 사람이 부자 된다",
                 "link": "https://n.news.naver.com/article/037/0000037285?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/037/2025/11/23/37285.jpg?type=nf70_70",
-                "time": "8시간전"
+                "time": "9시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2038,10 +2032,22 @@
         "press_name": "이코노미스트",
         "articles": [
             {
+                "title": "외국인, SK하닉 팔고 '이것' 사들였다…5천억원 순매수, 정체는",
+                "link": "https://n.news.naver.com/article/243/0000088460?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/243/2025/11/22/88460.jpg?type=nf70_70",
+                "time": "1일전"
+            },
+            {
+                "title": "록밴드 ‘부활’ 출신 김재희, 2000억대 불법 투자 사기 연루…검찰 송치",
+                "link": "https://n.news.naver.com/article/243/0000088486?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/243/2025/11/23/88486.jpg?type=nf70_70",
+                "time": "1시간전"
+            },
+            {
                 "title": "스타강사 현우진, 논현동 투자 7년 만에 337억 차익 ‘초대박’",
                 "link": "https://n.news.naver.com/article/243/0000088484?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/243/2025/11/23/88484.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             },
             {
                 "title": "[속보] “살려주세요” 끊긴 신고…계양산 A양, 알고 보니 혼자 귀가",
@@ -2050,22 +2056,10 @@
                 "time": "5시간전"
             },
             {
-                "title": "외국인, SK하닉 팔고 '이것' 사들였다…5천억원 순매수, 정체는",
-                "link": "https://n.news.naver.com/article/243/0000088460?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/243/2025/11/22/88460.jpg?type=nf70_70",
-                "time": "1일전"
-            },
-            {
-                "title": "[속보] 조국, 사면복권 3개월 만에 조국혁신당 대표 당선",
-                "link": "https://n.news.naver.com/article/243/0000088485?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/243/2025/11/23/88485.jpg?type=nf70_70",
-                "time": "56분전"
-            },
-            {
                 "title": "김구라 아들 그리, “2억5천 투자해 10억”…부동산 수익 화제",
                 "link": "https://n.news.naver.com/article/243/0000088472?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/243/2025/11/23/88472.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2079,16 +2073,10 @@
         "press_name": "코리아중앙데일리",
         "articles": [
             {
-                "title": "FSS proposes heavy sanctions against MBK Partners over investor fund violations in Homeplus case",
-                "link": "https://n.news.naver.com/article/640/0000080507?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/640/2025/11/23/80507.jpg?type=nf70_70",
-                "time": "1시간전"
-            },
-            {
-                "title": "Thaad protesters prevail as Seongju County officials retreat from structure dismantlement",
-                "link": "https://n.news.naver.com/article/640/0000080471?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/640/2025/11/21/80471.jpg?type=nf70_70",
-                "time": "1일전"
+                "title": "Dodgers' Kim Hye-seong apologizes for publicly dismissing man owed $82,000 by his father",
+                "link": "https://n.news.naver.com/article/640/0000080504?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/640/2025/11/23/80504.jpg?type=nf70_70",
+                "time": "3시간전"
             },
             {
                 "title": "Around 50 Korean workers return to U.S. after Georgia plant arrests",
@@ -2097,16 +2085,22 @@
                 "time": "1일전"
             },
             {
-                "title": "Dodgers' Kim Hye-seong apologizes for publicly dismissing man owed $82,000 by his father",
-                "link": "https://n.news.naver.com/article/640/0000080504?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/640/2025/11/23/80504.jpg?type=nf70_70",
-                "time": "2시간전"
+                "title": "FSS proposes heavy sanctions against MBK Partners over investor fund violations in Homeplus case",
+                "link": "https://n.news.naver.com/article/640/0000080507?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/640/2025/11/23/80507.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "Ferry first mate, helmsman from grounding incident face pretrial detention hearing",
                 "link": "https://n.news.naver.com/article/640/0000080492?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/640/2025/11/22/80492.jpg?type=nf70_70",
                 "time": "1일전"
+            },
+            {
+                "title": "One dead after fire at cardboard factory in Gyeonggi",
+                "link": "https://n.news.naver.com/article/640/0000080505?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/640/2025/11/23/80505.jpg?type=nf70_70",
+                "time": "3시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2124,25 +2118,25 @@
                 "title": "전공의들 \"지역의사 도입보다 수련환경 조성이 먼저\"",
                 "link": "https://n.news.naver.com/article/584/0000035434?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/584/2025/11/23/35434.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "6시간전"
             },
             {
                 "title": "어린이·청소년 독감 '대유행'…지난해 이맘때보다 14배",
                 "link": "https://n.news.naver.com/article/584/0000035430?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/584/2025/11/23/35430.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             },
             {
                 "title": "변종 조류독감 최초 감염자 숨져…美 당국 \"대중 위험 낮아\"",
                 "link": "https://n.news.naver.com/article/584/0000035432?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/584/2025/11/23/35432.jpg?type=nf70_70",
-                "time": "6시간전"
+                "time": "7시간전"
             },
             {
                 "title": "스페이스X, 달·화성우주선 '스타십' 새 버전 지상테스트 실패",
                 "link": "https://n.news.naver.com/article/584/0000035431?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/584/2025/11/23/35431.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2151,34 +2145,34 @@
         "press_name": "코메디닷컴",
         "articles": [
             {
-                "title": "“대장내시경 두려운 사람에 희소식”…장 비울 필요 없다고?",
-                "link": "https://n.news.naver.com/article/296/0000094957?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/296/2025/11/23/94957.jpg?type=nf70_70",
-                "time": "7시간전"
+                "title": "저녁밥 항상 ‘이 시간’에 먹었더니…혈당 스파이크, 체중에 변화가?",
+                "link": "https://n.news.naver.com/article/296/0000094965?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/296/2025/11/23/94965.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "“가슴에 작은 혹, 여드름 아녔어?”…이 혹 탓에 오른쪽 폐 절제한 40대女, 왜?",
                 "link": "https://n.news.naver.com/article/296/0000094954?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/296/2025/11/23/94954.jpg?type=nf70_70",
-                "time": "10시간전"
-            },
-            {
-                "title": "비만 아닌데 “나, 살쪘어. 어떡해”…중년 여성의 근육이 크게 줄어든 이유?",
-                "link": "https://n.news.naver.com/article/296/0000094960?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/296/2025/11/23/94960.jpg?type=nf70_70",
-                "time": "5시간전"
-            },
-            {
-                "title": "“그렇게 운동했는데” 비, 결국 ‘이 병’ 진단받았다…무슨 일?",
-                "link": "https://n.news.naver.com/article/296/0000094963?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/296/2025/11/23/94963.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "11시간전"
             },
             {
                 "title": "“생리 피를 얼굴에 바른다고?”…동안 위해 ‘월경 팩’ 한다는 여성들, 도대체 왜?",
                 "link": "https://n.news.naver.com/article/296/0000094949?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/296/2025/11/22/94949.jpg?type=nf70_70",
-                "time": "21시간전"
+                "time": "22시간전"
+            },
+            {
+                "title": "비만 아닌데 “나, 살쪘어. 어떡해”…중년 여성의 근육이 크게 줄어든 이유?",
+                "link": "https://n.news.naver.com/article/296/0000094960?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/296/2025/11/23/94960.jpg?type=nf70_70",
+                "time": "6시간전"
+            },
+            {
+                "title": "“그렇게 운동했는데” 비, 결국 ‘이 병’ 진단받았다…무슨 일?",
+                "link": "https://n.news.naver.com/article/296/0000094963?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/296/2025/11/23/94963.jpg?type=nf70_70",
+                "time": "3시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2195,13 +2189,13 @@
                 "title": "놀다, ‘퍼머컬처 정원’에서 다 함께",
                 "link": "https://n.news.naver.com/article/036/0000052690?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/036/2025/11/23/52690.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "5시간전"
             },
             {
                 "title": "철저히 잊힌 15만 명의 죽음",
                 "link": "https://n.news.naver.com/article/036/0000052688?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/036/2025/11/23/52688.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             },
             {
                 "title": "[단독] 한국동서발전, 여수에선 ‘보일러타워’도 해체 허가 받았다",
@@ -2213,7 +2207,7 @@
                 "title": "재판장 “문신사법 입법 되겠나” 말 잘랐는데 됐네",
                 "link": "https://n.news.naver.com/article/036/0000052691?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/036/2025/11/23/52691.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "5시간전"
             },
             {
                 "title": "‘서울’ ‘자가’ ‘대기업’ ‘부장’이 담지 못한 것",
@@ -2237,25 +2231,25 @@
                 "title": "\"돈 안빌려 준대요\"...은행 '대출 셧다운' 현실화하나",
                 "link": "https://n.news.naver.com/article/050/0000098768?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/050/2025/11/23/98768.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
             },
             {
-                "title": "[속보] 조국, 사면복권 3개월여 만에 혁신당 대표 당선···98.6% 찬성",
-                "link": "https://n.news.naver.com/article/050/0000098769?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/050/2025/11/23/98769.jpg?type=nf70_70",
-                "time": "1시간전"
+                "title": "‘이사비 240억’...용산으로 돌아오는 국방부",
+                "link": "https://n.news.naver.com/article/050/0000098760?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/050/2025/11/23/98760.jpg?type=nf70_70",
+                "time": "9시간전"
             },
             {
                 "title": "“별점 테러 받더니”...우리가 알던 ‘카톡’이 돌아온다",
                 "link": "https://n.news.naver.com/article/050/0000098758?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/050/2025/11/23/98758.jpg?type=nf70_70",
-                "time": "9시간전"
+                "time": "10시간전"
             },
             {
                 "title": "[속보] 강훈식, 양양 '괴롭힘 공무원' 논란에 \"감사·수사로 엄정 조치\"",
                 "link": "https://n.news.naver.com/article/050/0000098772?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/050/2025/11/23/98772.jpg?type=nf70_70",
-                "time": "39분전"
+                "time": "1시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2267,31 +2261,31 @@
                 "title": "전광훈 \"좌파 정권만 나를 조사...윤 전 대통령 무죄 이후 정권 심판할 것\"",
                 "link": "https://n.news.naver.com/article/655/0000028458?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/655/2025/11/22/28458.jpg?type=nf70_70",
-                "time": "23시간전"
-            },
-            {
-                "title": "더불어민주당 \"어떤 경우도 北 도발 용납 않을 것\"",
-                "link": "https://n.news.naver.com/article/655/0000028463?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/655/2025/11/23/28463.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "1일전"
             },
             {
                 "title": "이준석 \"국힘, 총선 대패한 전략 그대로…지선 연대 가능성 없어\"",
                 "link": "https://n.news.naver.com/article/655/0000028462?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/655/2025/11/23/28462.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "5시간전"
             },
             {
                 "title": "국힘 \"李 정권, 공무원 범죄자 취급...'내란' 남발하면 국정 무너질 것\"",
                 "link": "https://n.news.naver.com/article/655/0000028464?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/655/2025/11/23/28464.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             },
             {
                 "title": "조국혁신당 당대표에 조국 당선…단독출마· 찬성 98.6%",
                 "link": "https://n.news.naver.com/article/655/0000028465?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/655/2025/11/23/28465.jpg?type=nf70_70",
-                "time": "52분전"
+                "time": "1시간전"
+            },
+            {
+                "title": "[속보]정청래 \"'윤 어게인' 외치는 옹호세력에 누가 마음 열어주겠나\"",
+                "link": "https://n.news.naver.com/article/655/0000028466?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/655/2025/11/23/28466.jpg?type=nf70_70",
+                "time": "1시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2300,34 +2294,34 @@
         "press_name": "조세일보",
         "articles": [
             {
-                "title": "국방부, 합참과의 동거 마침표?...용산 복귀 예산 238억 요청",
-                "link": "https://n.news.naver.com/article/123/0002372467?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/123/2025/11/23/2372467.jpg?type=nf70_70",
-                "time": "5시간전"
+                "title": "1199회 로또 1등 17명…각 16.9억원씩·경기 5곳서 최다 당첨",
+                "link": "https://n.news.naver.com/article/123/0002372456?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/123/2025/11/22/2372456.jpg?type=nf70_70",
+                "time": "20시간전"
             },
             {
-                "title": "美서 변종 조류독감 H5N5 첫 인간 감염자 사망…전파 위험 낮아",
-                "link": "https://n.news.naver.com/article/123/0002372464?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/123/2025/11/23/2372464.jpg?type=nf70_70",
-                "time": "7시간전"
+                "title": "李대통령 “통일 노하우는?\"...메르츠 \"韓 대북·대중 전략 궁금\"",
+                "link": "https://n.news.naver.com/article/123/0002372461?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/123/2025/11/23/2372461.jpg?type=nf70_70",
+                "time": "10시간전"
             },
             {
-                "title": "“국힘, 국민과 헤어질 결심” 정청래 공격에 장동혁 “그게 바로 민주당”",
-                "link": "https://n.news.naver.com/article/123/0002372469?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/123/2025/11/23/2372469.jpg?type=nf70_70",
-                "time": "2시간전"
+                "title": "\"국경 강제 변경 안돼\"…유럽, 트럼프 '우크라 평화안'에 우려 표명",
+                "link": "https://n.news.naver.com/article/123/0002372465?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/123/2025/11/23/2372465.jpg?type=nf70_70",
+                "time": "6시간전"
             },
             {
                 "title": "‘美 보이콧’에도 G20, 관례 깨고 개막 첫날 ‘남아공 정상선언’ 채택",
                 "link": "https://n.news.naver.com/article/123/0002372460?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/123/2025/11/23/2372460.jpg?type=nf70_70",
-                "time": "9시간전"
+                "time": "10시간전"
             },
             {
                 "title": "“주삿바늘 지옥 끝낼까”...바르는 인슐린, 동물실험서 효과 확인",
                 "link": "https://n.news.naver.com/article/123/0002372466?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/123/2025/11/23/2372466.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "6시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2341,34 +2335,34 @@
         "press_name": "더스쿠프",
         "articles": [
             {
-                "title": "우려되는 '위메프 파산 전철'… 홈플러스 주인 못 찾으면 벌어질 일",
-                "link": "https://n.news.naver.com/article/665/0000006224?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/665/2025/11/23/6224.jpg?type=nf70_70",
-                "time": "33분전"
-            },
-            {
                 "title": "여성이 근육 운동하면 '울퉁불퉁'해 지나요? [박창희의 비만 Exit]",
                 "link": "https://n.news.naver.com/article/665/0000006218?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/665/2025/11/22/6218.jpg?type=nf70_70",
-                "time": "20시간전"
+                "time": "21시간전"
             },
             {
                 "title": "어릴 적 내 아이가 긁적인 낙서의 추억 [길걷수다]",
                 "link": "https://n.news.naver.com/article/665/0000006221?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/665/2025/11/23/6221.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             },
             {
-                "title": "고환율 장기화… 李 정부, 물가 관리와 달러 가뭄 해소에 힘써야",
-                "link": "https://n.news.naver.com/article/665/0000006216?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/665/2025/11/22/6216.jpg?type=nf70_70",
+                "title": "가능하면 엮이고 싶지 않은 사람… '그 사람을 머릿속에서 지우는 방법' 外",
+                "link": "https://n.news.naver.com/article/665/0000006217?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/665/2025/11/22/6217.jpg?type=nf70_70",
                 "time": "1일전"
             },
             {
                 "title": "리니지식 과금, 운영 미숙… 신작 '아이온2'서 드러난 엔씨 고질병",
                 "link": "https://n.news.naver.com/article/665/0000006223?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/665/2025/11/23/6223.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
+            },
+            {
+                "title": "우려되는 '위메프 파산 전철'… 홈플러스 주인 못 찾으면 벌어질 일",
+                "link": "https://n.news.naver.com/article/665/0000006224?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/665/2025/11/23/6224.jpg?type=nf70_70",
+                "time": "1시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2377,34 +2371,34 @@
         "press_name": "국제신문",
         "articles": [
             {
-                "title": "부산에서 아랍에미리트(UAE)로 가는 항공 직항 노선 열린다",
-                "link": "https://n.news.naver.com/article/658/0000126842?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/658/2025/11/23/126842.jpg?type=nf70_70",
-                "time": "6시간전"
-            },
-            {
                 "title": "\"민생회복 소비쿠폰 30일까지 모두 사용하세요\"",
                 "link": "https://n.news.naver.com/article/658/0000126851?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/658/2025/11/23/126851.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "5시간전"
+            },
+            {
+                "title": "부산에서 아랍에미리트(UAE)로 가는 항공 직항 노선 열린다",
+                "link": "https://n.news.naver.com/article/658/0000126842?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/658/2025/11/23/126842.jpg?type=nf70_70",
+                "time": "7시간전"
             },
             {
                 "title": "이준석 “국힘과 내년 지방선거 연대 가능성 없다”",
                 "link": "https://n.news.naver.com/article/658/0000126862?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/658/2025/11/23/126862.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             },
             {
                 "title": "부산에서 가덕도신공항 건설 참여할 업체 대상 설명회 열려",
                 "link": "https://n.news.naver.com/article/658/0000126865?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/658/2025/11/23/126865.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "2시간전"
             },
             {
                 "title": "올해 검사 161명 퇴직…인력난 극심해질 듯",
                 "link": "https://n.news.naver.com/article/658/0000126857?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/658/2025/11/23/126857.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2423,21 +2417,21 @@
         "press_name": "중앙SUNDAY",
         "articles": [
             {
-                "title": "[ON 선데이] 삼일장, 이젠 너무 길다",
-                "link": "https://n.news.naver.com/article/353/0000053749?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/353/2025/11/22/53749.jpg?type=nf70_70",
+                "title": "해병특검 ‘채상병 수사 외압’ 윤석열 등 12명 기소",
+                "link": "https://n.news.naver.com/article/353/0000053771?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/353/2025/11/22/53771.jpg?type=nf70_70",
                 "time": "1일전"
             },
             {
-                "title": "[선데이 칼럼] 환율 움직임이 예사롭지 않다",
-                "link": "https://n.news.naver.com/article/353/0000053752?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/353/2025/11/22/53752.jpg?type=nf70_70",
+                "title": "안 꺼지는 AI 거품론…자고나면 증시 요동",
+                "link": "https://n.news.naver.com/article/353/0000053792?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/353/2025/11/22/53792.jpg?type=nf70_70",
                 "time": "1일전"
             },
             {
-                "title": "‘아파트 리브랜딩’…건설업계 승부수",
-                "link": "https://n.news.naver.com/article/353/0000053777?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/353/2025/11/22/53777.jpg?type=nf70_70",
+                "title": "[오늘의 운세] 11월 23일",
+                "link": "https://n.news.naver.com/article/353/0000053742?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/353/2025/11/22/53742.jpg?type=nf70_70",
                 "time": "1일전"
             },
             {
@@ -2447,9 +2441,9 @@
                 "time": "1일전"
             },
             {
-                "title": "[오늘의 운세] 11월 23일",
-                "link": "https://n.news.naver.com/article/353/0000053742?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/353/2025/11/22/53742.jpg?type=nf70_70",
+                "title": "시진핑-장유샤 ‘공포의 균형’…서로 겨누는 숙청 칼날",
+                "link": "https://n.news.naver.com/article/353/0000053735?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/353/2025/11/22/53735.jpg?type=nf70_70",
                 "time": "1일전"
             }
         ],
@@ -2467,31 +2461,31 @@
                 "title": "김혜경 여사 “김치는 찢어 먹으면 더 맛있어”…남아공의 한식 전도사",
                 "link": "https://n.news.naver.com/article/005/0001816070?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/005/2025/11/23/1816070.jpg?type=nf70_70",
-                "time": "14시간전"
-            },
-            {
-                "title": "‘계엄령 놀이’ 갑질 공무원 논란…양양군 “용납하지 않겠다”",
-                "link": "https://n.news.naver.com/article/005/0001816113?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/005/2025/11/23/1816113.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "15시간전"
             },
             {
                 "title": "가맹점에 연 15% 불법 대부…명륜진사갈비 대표 檢 송치",
                 "link": "https://n.news.naver.com/article/005/0001816139?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/005/2025/11/23/1816139.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             },
             {
                 "title": "[속보] 조국혁신당 당대표에 조국 당선…찬성률 98%",
                 "link": "https://n.news.naver.com/article/005/0001816146?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/005/2025/11/23/1816146.jpg?type=nf70_70",
+                "time": "2시간전"
+            },
+            {
+                "title": "강훈식, 양양 ‘계엄령 놀이’ 공무원 논란에 “감사·수사로 엄정 조치”",
+                "link": "https://n.news.naver.com/article/005/0001816154?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/005/2025/11/23/1816154.jpg?type=nf70_70",
                 "time": "1시간전"
             },
             {
                 "title": "“용산 다시 갈게요” 국방부, 이사 비용 238억 요청",
                 "link": "https://n.news.naver.com/article/005/0001816136?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/005/2025/11/23/1816136.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2500,34 +2494,34 @@
         "press_name": "MBC",
         "articles": [
             {
-                "title": "장동혁 \"조국과 '대장동 토론' 빠르게 진행‥정청래 참여도 환영\"",
-                "link": "https://n.news.naver.com/article/214/0001463509?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/214/2025/11/23/1463509.jpg?type=nf70_70",
-                "time": "2시간전"
+                "title": "전공의협 \"지역의사 도입보다 수련환경 개선이 먼저\"",
+                "link": "https://n.news.naver.com/article/214/0001463507?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/214/2025/11/23/1463507.jpg?type=nf70_70",
+                "time": "4시간전"
             },
             {
-                "title": "'계엄령 놀이' 환경미화원 갑질 공무원‥양양군 \"깊이 송구\"",
-                "link": "https://n.news.naver.com/article/214/0001463510?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/214/2025/11/23/1463510.jpg?type=nf70_70",
-                "time": "2시간전"
-            },
-            {
-                "title": "美시카고서 10대 집단난동 중 총격‥트럼프 \"대규모 폭동\"",
-                "link": "https://n.news.naver.com/article/214/0001463484?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/214/2025/11/23/1463484.jpg?type=nf70_70",
-                "time": "8시간전"
+                "title": "장동혁, 경남 창원 찾아 \"국민 자유 잡아먹는 괴물 정권‥李 내려올 때까지 싸우자\"",
+                "link": "https://n.news.naver.com/article/214/0001463517?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/214/2025/11/23/1463517.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "조국, 1년 만에 조국혁신당 대표에 복귀‥\"정치·민생개혁 본격 시작\"",
                 "link": "https://n.news.naver.com/article/214/0001463515?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/214/2025/11/23/1463515.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "2시간전"
+            },
+            {
+                "title": "이준석 \"국힘 내부 변화·쇄신 목소리 전혀 안 나와‥지선 연대 가능성 없다\"",
+                "link": "https://n.news.naver.com/article/214/0001463514?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/214/2025/11/23/1463514.jpg?type=nf70_70",
+                "time": "2시간전"
             },
             {
                 "title": "[속보] 대통령실, 강원 양양군 '계엄령 놀이' 갑질 공무원에 엄정 조치 지시",
                 "link": "https://n.news.naver.com/article/214/0001463516?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/214/2025/11/23/1463516.jpg?type=nf70_70",
-                "time": "48분전"
+                "time": "1시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2536,34 +2530,34 @@
         "press_name": "SBS",
         "articles": [
             {
-                "title": "정청래 \"재판중계로 본 윤, 초라·비루…여당답게 국정 이끈다\"",
-                "link": "https://n.news.naver.com/article/055/0001310280?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/055/2025/11/23/1310280.jpg?type=nf70_70",
-                "time": "2시간전"
-            },
-            {
-                "title": "올해만 검사 161명 사표 '엑소더스'…10년새 최고치",
-                "link": "https://n.news.naver.com/article/055/0001310267?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/055/2025/11/23/1310267.jpg?type=nf70_70",
-                "time": "3시간전"
+                "title": "장동혁 \"항소 포기는 대한민국 포기…국민이 레드카드 들어야\"",
+                "link": "https://n.news.naver.com/article/055/0001310298?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/055/2025/11/23/1310298.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "조국혁신당 대표에 다시 조국…\"오직 국민 뜻따라 신항로 개척\"",
                 "link": "https://n.news.naver.com/article/055/0001310291?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/055/2025/11/23/1310291.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "2시간전"
+            },
+            {
+                "title": "\"마운트 취할 옷\" 썼다가…\"몰지각\" 다카이치 표현 논란",
+                "link": "https://n.news.naver.com/article/055/0001310285?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/055/2025/11/23/1310285.jpg?type=nf70_70",
+                "time": "2시간전"
             },
             {
                 "title": "\"계양산인데\" 신고하다 뚝…여성 수색 중 걸려온 전화",
                 "link": "https://n.news.naver.com/article/055/0001310258?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/055/2025/11/23/1310258.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
             },
             {
                 "title": "'카톡, 다시 돌아온다'…논란 후 석 달만",
                 "link": "https://n.news.naver.com/article/055/0001310210?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/055/2025/11/23/1310210.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2572,34 +2566,34 @@
         "press_name": "미디어오늘",
         "articles": [
             {
-                "title": "장동혁·조국 토론 제안에 신문들 정청래 참여 가능성 부각",
-                "link": "https://n.news.naver.com/article/006/0000132909?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/006/2025/11/23/132909.jpg?type=nf70_70",
-                "time": "5시간전"
+                "title": "서버 악성코드 감염됐는데 정부에 보고 안 한 KT",
+                "link": "https://n.news.naver.com/article/006/0000132912?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/006/2025/11/23/132912.jpg?type=nf70_70",
+                "time": "2시간전"
             },
             {
                 "title": "중앙일보, '내란조사 TF'에 \"文 적폐청산 시즌2 우려\"",
                 "link": "https://n.news.naver.com/article/006/0000132910?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/006/2025/11/23/132910.jpg?type=nf70_70",
-                "time": "4시간전"
-            },
-            {
-                "title": "\"법원 등기 받으세요\" 보이스피싱, 10분 내 번호 차단 도입",
-                "link": "https://n.news.naver.com/article/006/0000132907?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/006/2025/11/23/132907.jpg?type=nf70_70",
-                "time": "6시간전"
+                "time": "5시간전"
             },
             {
                 "title": "'특징주' 기사로 주가 올려 111억 번 전직 기자, 구속 송치",
                 "link": "https://n.news.naver.com/article/006/0000132911?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/006/2025/11/23/132911.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
             },
             {
                 "title": "국힘 내부 \"12·3 계엄 1년, 윤석열과 박절해야\" 목소리 나온 까닭",
                 "link": "https://n.news.naver.com/article/006/0000132908?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/006/2025/11/23/132908.jpg?type=nf70_70",
                 "time": "5시간전"
+            },
+            {
+                "title": "김용현의 변호사 판사 욕설, JTBC 앵커 \"선동인가\" MBC 앵커 \"놔둘건가\"",
+                "link": "https://n.news.naver.com/article/006/0000132913?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/006/2025/11/23/132913.jpg?type=nf70_70",
+                "time": "55분전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2608,34 +2602,34 @@
         "press_name": "뉴스1",
         "articles": [
             {
-                "title": "\"AI 버블만은 제발\"…美 기술주 ETF에 6600억원 넣은 '불개미'",
-                "link": "https://n.news.naver.com/article/421/0008619430?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/421/2025/11/23/8619430.jpg?type=nf70_70",
-                "time": "10시간전"
-            },
-            {
                 "title": "\"부천 막장 BJ 만나고 제 인생이 송두리째 망가졌어요\"",
                 "link": "https://n.news.naver.com/article/421/0008619467?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/421/2025/11/23/8619467.jpg?type=nf70_70",
-                "time": "10시간전"
+                "time": "11시간전"
             },
             {
                 "title": "'비상계엄 1년' 내란재판 속속 마무리…금주 한덕수 결심·내년초 尹 선고",
                 "link": "https://n.news.naver.com/article/421/0008619794?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/421/2025/11/23/8619794.jpg?type=nf70_70",
-                "time": "4시간전"
+                "time": "5시간전"
             },
             {
-                "title": "\"입주민 나갈 때까지 대기\"…배달기사에 신종 갑질한 부산 아파트[영상]",
-                "link": "https://n.news.naver.com/article/421/0008619705?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/421/2025/11/23/8619705.jpg?type=nf70_70",
-                "time": "6시간전"
+                "title": "강훈식 비서실장, '계엄놀이' 양양군 공무원에 \"엄정 조사 지시\"",
+                "link": "https://n.news.naver.com/article/421/0008620198?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/421/2025/11/23/8620198.jpg?type=nf70_70",
+                "time": "1시간전"
+            },
+            {
+                "title": "김혜경 여사 \"아스팔트 키세스단이 뽑은 李대통령…기내 잠 아껴 서류 읽어\"",
+                "link": "https://n.news.naver.com/article/421/0008619381?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/421/2025/11/23/8619381.jpg?type=nf70_70",
+                "time": "15시간전"
             },
             {
                 "title": "강남 50억 아파트서 세 가족 1인분 주문…1인1식 안내 직원 갑질 끝 퇴사",
                 "link": "https://n.news.naver.com/article/421/0008619757?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/421/2025/11/23/8619757.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "6시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2647,30 +2641,30 @@
                 "title": "'SKY' 덮친 부정시험 논란…AI가 촉발한 '정답 찾는 교육'의 종말 [권상집의 논전(論戰)]",
                 "link": "https://n.news.naver.com/article/586/0000116558?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/586/2025/11/23/116558.jpg?type=nf70_70",
-                "time": "5시간전"
-            },
-            {
-                "title": "국방부, 용산 청사로 돌아올 준비…이사비만 '239억원'",
-                "link": "https://n.news.naver.com/article/586/0000116556?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/586/2025/11/23/116556.jpg?type=nf70_70",
                 "time": "6시간전"
             },
             {
-                "title": "손발이 자주 붓는다면…단순 피로 아닌 '장기 이상'의 경고음",
-                "link": "https://n.news.naver.com/article/586/0000116575?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/586/2025/11/23/116575.jpg?type=nf70_70",
+                "title": "가자전쟁 휴전·수에즈운하 정상화에 웃음기 사라진 HMM",
+                "link": "https://n.news.naver.com/article/586/0000116569?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/586/2025/11/23/116569.jpg?type=nf70_70",
+                "time": "3시간전"
+            },
+            {
+                "title": "조국, 사면복권 100일 만에 다시 혁신당 대표로…찬성 98.6%",
+                "link": "https://n.news.naver.com/article/586/0000116576?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/586/2025/11/23/116576.jpg?type=nf70_70",
                 "time": "1시간전"
             },
             {
                 "title": "'계엄령 놀이'라며 미화원 폭행…갑질 공무원 논란에 양양군 사과",
                 "link": "https://n.news.naver.com/article/586/0000116571?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/586/2025/11/23/116571.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             },
             {
-                "title": "가자전쟁 휴전·수에즈운하 정상화에 웃음기 사라진 HMM",
-                "link": "https://n.news.naver.com/article/586/0000116569?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/586/2025/11/23/116569.jpg?type=nf70_70",
+                "title": "손발이 자주 붓는다면…단순 피로 아닌 '장기 이상'의 경고음",
+                "link": "https://n.news.naver.com/article/586/0000116575?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/586/2025/11/23/116575.jpg?type=nf70_70",
                 "time": "2시간전"
             }
         ],
@@ -2680,34 +2674,34 @@
         "press_name": "조선비즈",
         "articles": [
             {
-                "title": "카카오, 연내에 카카오톡 친구 목록 원상복구… 개편 3개월만",
-                "link": "https://n.news.naver.com/article/366/0001125262?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/366/2025/11/23/1125262.jpg?type=nf70_70",
-                "time": "6시간전"
+                "title": "삼성전자·SK하이닉스 올해 법인세 6조원 넘게 납부… ‘반도체 수퍼사이클’ 영향",
+                "link": "https://n.news.naver.com/article/366/0001125318?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/366/2025/11/23/1125318.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "‘계엄령 놀이’ 환경미화원 갑질 7급 공무원 논란에 양양군 “깊이 송구”",
                 "link": "https://n.news.naver.com/article/366/0001125310?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/366/2025/11/23/1125310.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "2시간전"
             },
             {
                 "title": "배짱 장사에 美·中·日 모두 등 돌렸다… 글로벌 고가품 시장 2년 연속 침체",
                 "link": "https://n.news.naver.com/article/366/0001125222?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/366/2025/11/23/1125222.jpg?type=nf70_70",
-                "time": "11시간전"
+                "time": "12시간전"
             },
             {
                 "title": "이준석 개혁신당 대표 “내년 지방선거에서 국민의힘과 연대 가능성 없다”",
                 "link": "https://n.news.naver.com/article/366/0001125308?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/366/2025/11/23/1125308.jpg?type=nf70_70",
-                "time": "1시간전"
+                "time": "2시간전"
             },
             {
                 "title": "한라산서 아이 대변 보게 한 중국인 여성…“그대로 두고 떠나”",
                 "link": "https://n.news.naver.com/article/366/0001125251?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/366/2025/11/23/1125251.jpg?type=nf70_70",
-                "time": "7시간전"
+                "time": "8시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2716,34 +2710,34 @@
         "press_name": "머니투데이",
         "articles": [
             {
+                "title": "강남 50억 아파트서 주민 갑질...'1인1식' 안내한 직원 결국 퇴사",
+                "link": "https://n.news.naver.com/article/008/0005281922?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/008/2025/11/23/5281922.jpg?type=nf70_70",
+                "time": "3시간전"
+            },
+            {
                 "title": "\"문 못 열어줘, 기다려라\"...아파트 안에 갇힌 배달원, 결국 담 넘었다",
                 "link": "https://n.news.naver.com/article/008/0005281933?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/008/2025/11/23/5281933.jpg?type=nf70_70",
+                "time": "2시간전"
+            },
+            {
+                "title": "\"네? 얼마요?\" 가격 듣고 '깜짝'…칼국수 한 그릇, 얼마인가 보니",
+                "link": "https://n.news.naver.com/article/008/0005281946?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/008/2025/11/23/5281946.jpg?type=nf70_70",
                 "time": "1시간전"
-            },
-            {
-                "title": "서울 매수세 꺾였다는데...\"강남 아닌 '이 동네' 쭉쭉\" 어디?",
-                "link": "https://n.news.naver.com/article/008/0005281784?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/008/2025/11/23/5281784.jpg?type=nf70_70",
-                "time": "11시간전"
-            },
-            {
-                "title": "\"살려달라\" 계양서 신고 중 전화 뚝...10대 여성 '실종' 아니었다",
-                "link": "https://n.news.naver.com/article/008/0005281880?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/008/2025/11/23/5281880.jpg?type=nf70_70",
-                "time": "5시간전"
             },
             {
                 "title": "3년간 부부관계 없던 남편 '반전'...\"휴대폰에 마사지 업소 예약 문자\"",
                 "link": "https://n.news.naver.com/article/008/0005281898?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/008/2025/11/23/5281898.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
             },
             {
                 "title": "\"나도 공부 잘했는데\" 대학 입학 후 충격...'천재반' 만든 중국의 실험[차이나는 중국]",
                 "link": "https://n.news.naver.com/article/008/0005281787?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/008/2025/11/23/5281787.jpg?type=nf70_70",
-                "time": "10시간전"
+                "time": "11시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2755,31 +2749,31 @@
                 "title": "4대 은행 가계대출 창구 닫힌다…이미 목표치 33% 초과",
                 "link": "https://n.news.naver.com/article/374/0000476373?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/374/2025/11/23/476373.jpg?type=nf70_70",
-                "time": "7시간전"
-            },
-            {
-                "title": "희토류 찾으러 '이곳'으로 가자…각국 경쟁 치열",
-                "link": "https://n.news.naver.com/article/374/0000476365?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/374/2025/11/23/476365.jpg?type=nf70_70",
-                "time": "9시간전"
-            },
-            {
-                "title": "'명륜진사갈비' 가맹본부 대표, 점주들에 연 15% 불법대부…검찰 송치",
-                "link": "https://n.news.naver.com/article/374/0000476381?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/374/2025/11/23/476381.jpg?type=nf70_70",
-                "time": "5시간전"
+                "time": "8시간전"
             },
             {
                 "title": "中 \"日이 감히 양안상황 무력개입하면 침략행위…자위권 행사\"",
                 "link": "https://n.news.naver.com/article/374/0000476355?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/374/2025/11/23/476355.jpg?type=nf70_70",
+                "time": "11시간전"
+            },
+            {
+                "title": "희토류 찾으러 '이곳'으로 가자…각국 경쟁 치열",
+                "link": "https://n.news.naver.com/article/374/0000476365?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/374/2025/11/23/476365.jpg?type=nf70_70",
                 "time": "10시간전"
             },
             {
-                "title": "[속보]대통령실, 양양 '괴롭힘 공무원' 논란에 \"엄정 조치\"",
+                "title": "'명륜진사갈비' 가맹본부 대표, 점주들에 연 15% 불법대부…검찰 송치",
+                "link": "https://n.news.naver.com/article/374/0000476381?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/374/2025/11/23/476381.jpg?type=nf70_70",
+                "time": "6시간전"
+            },
+            {
+                "title": "대통령실, 양양 '괴롭힘 공무원' 논란에 \"엄정 조치\"",
                 "link": "https://n.news.naver.com/article/374/0000476392?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/374/2025/11/23/476392.jpg?type=nf70_70",
-                "time": "28분전"
+                "time": "1시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2796,13 +2790,19 @@
                 "title": "왕이 中 외교부장 \"일본 군국주의 부활, 결코 허용 안 해\"",
                 "link": "https://n.news.naver.com/article/629/0000446388?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/629/2025/11/23/446388.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
+            },
+            {
+                "title": "조국, 출소 100일 만에 당대표 복귀…지선 출마까지 쾌속질주?",
+                "link": "https://n.news.naver.com/article/629/0000446401?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/629/2025/11/23/446401.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "외식비 또 상승…칼국수·삼계탕이 가장 크게 올라",
                 "link": "https://n.news.naver.com/article/629/0000446351?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/629/2025/11/23/446351.jpg?type=nf70_70",
-                "time": "6시간전"
+                "time": "7시간전"
             },
             {
                 "title": "나경원 \"민주, 1년 내내 계엄팔이·내란몰이 혈안…그만 우려먹으라\"",
@@ -2811,16 +2811,10 @@
                 "time": "2시간전"
             },
             {
-                "title": "[속보] 조국혁신당 새 대표에 조국",
-                "link": "https://n.news.naver.com/article/629/0000446397?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/629/2025/11/23/446397.jpg?type=nf70_70",
-                "time": "1시간전"
-            },
-            {
                 "title": "로또 1199회 당첨번호 1등 16억, '경기 사실상 잔치판이네'",
                 "link": "https://n.news.naver.com/article/629/0000446322?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/629/2025/11/23/446322.jpg?type=nf70_70",
-                "time": "10시간전"
+                "time": "11시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2829,34 +2823,34 @@
         "press_name": "전주MBC",
         "articles": [
             {
-                "title": "새만금-전주고속도로 55㎞ 개통.. 22일 오전 통행 시작",
-                "link": "https://n.news.naver.com/article/659/0000038815?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/659/2025/11/22/38815.jpg?type=nf70_70",
-                "time": "1일전"
-            },
-            {
                 "title": "\"전쟁 참사 알려준 연평도 포격.. 국힘은 외환 혐의 尹 꽁무니 따라\"",
                 "link": "https://n.news.naver.com/article/659/0000038824?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/659/2025/11/23/38824.jpg?type=nf70_70",
-                "time": "3시간전"
-            },
-            {
-                "title": "'지인끼리 동승하다'.. 1톤 트럭, 다리 들이받아 4명 사상",
-                "link": "https://n.news.naver.com/article/659/0000038822?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/659/2025/11/23/38822.jpg?type=nf70_70",
-                "time": "5시간전"
-            },
-            {
-                "title": "\"대상포진 예방 접종비 지원, 지역마다 천차만별\"",
-                "link": "https://n.news.naver.com/article/659/0000038818?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/659/2025/11/23/38818.jpg?type=nf70_70",
-                "time": "10시간전"
+                "time": "4시간전"
             },
             {
                 "title": "조국, 조국혁신당 대표 당선.. \"포기하지 않고 나아가겠다\"",
                 "link": "https://n.news.naver.com/article/659/0000038829?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/659/2025/11/23/38829.jpg?type=nf70_70",
-                "time": "39분전"
+                "time": "1시간전"
+            },
+            {
+                "title": "'지인끼리 동승하다'.. 1톤 트럭, 다리 들이받아 4명 사상",
+                "link": "https://n.news.naver.com/article/659/0000038822?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/659/2025/11/23/38822.jpg?type=nf70_70",
+                "time": "6시간전"
+            },
+            {
+                "title": "\"대상포진 예방 접종비 지원, 지역마다 천차만별\"",
+                "link": "https://n.news.naver.com/article/659/0000038818?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/659/2025/11/23/38818.jpg?type=nf70_70",
+                "time": "11시간전"
+            },
+            {
+                "title": "'학대 의심 시 녹음 인정' 법안에.. \"교사 범죄자 내몰아\" 반발",
+                "link": "https://n.news.naver.com/article/659/0000038830?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/659/2025/11/23/38830.jpg?type=nf70_70",
+                "time": "1시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2875,34 +2869,34 @@
         "press_name": "JIBS",
         "articles": [
             {
-                "title": "“헌재가 대법원 위에?” 문형배 직격… 여권 사법개편에  “위험하다”",
-                "link": "https://n.news.naver.com/article/661/0000065811?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/661/2025/11/23/65811.jpg?type=nf70_70",
-                "time": "5시간전"
-            },
-            {
-                "title": "나경원 \"내란 몰이 1년 우려먹어.. 민주당이나 헤어질 결심하라\"",
-                "link": "https://n.news.naver.com/article/661/0000065824?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/661/2025/11/23/65824.jpg?type=nf70_70",
-                "time": "57분전"
-            },
-            {
-                "title": "그때 그 화면 다시.. '카카오톡 친구 탭' 석 달 만에 돌아온다",
-                "link": "https://n.news.naver.com/article/661/0000065819?ntype=RANKING",
-                "img_src": "https://mimgnews.pstatic.net/image/origin/661/2025/11/23/65819.jpg?type=nf70_70",
-                "time": "2시간전"
+                "title": "“만원으로 뭘 먹어”… 외식비, 동시다발 ‘새 메뉴판’  갈아치워야",
+                "link": "https://n.news.naver.com/article/661/0000065818?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/661/2025/11/23/65818.jpg?type=nf70_70",
+                "time": "3시간전"
             },
             {
                 "title": "\"뭉치면 이긴다? 90년대 방식\" 이준석, 국힘 연대설에 선 그어",
                 "link": "https://n.news.naver.com/article/661/0000065816?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/661/2025/11/23/65816.jpg?type=nf70_70",
-                "time": "3시간전"
+                "time": "4시간전"
+            },
+            {
+                "title": "출소 3개월 만에 다시 수장으로.. 조국, 혁신당 새 대표 당선",
+                "link": "https://n.news.naver.com/article/661/0000065826?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/661/2025/11/23/65826.jpg?type=nf70_70",
+                "time": "1시간전"
+            },
+            {
+                "title": "나경원 \"내란 몰이 1년 우려먹어.. 민주당이나 헤어질 결심하라\"",
+                "link": "https://n.news.naver.com/article/661/0000065824?ntype=RANKING",
+                "img_src": "https://mimgnews.pstatic.net/image/origin/661/2025/11/23/65824.jpg?type=nf70_70",
+                "time": "1시간전"
             },
             {
                 "title": "아침을 굶고 버티는 10대 늘어나는 사이… 제주서중 교문 앞에선 ‘백설기 한 조각’이 아이들을 멈춰  세웠다",
                 "link": "https://n.news.naver.com/article/661/0000065821?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/661/2025/11/23/65821.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
@@ -2926,7 +2920,7 @@
                 "title": "학생들에게 ‘늙은 난자’ 이미지 보여주는 국가의 속내",
                 "link": "https://n.news.naver.com/article/007/0000008066?ntype=RANKING",
                 "img_src": "https://mimgnews.pstatic.net/image/origin/007/2025/11/23/8066.jpg?type=nf70_70",
-                "time": "2시간전"
+                "time": "3시간전"
             }
         ],
         "regDt": "2025-06-20 14:52:44"
